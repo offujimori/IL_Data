@@ -1,0 +1,6632 @@
+[
+    {
+        "date": "2021-09-01",
+        "dau": 5,
+        "returningAddresses": 0,
+        "newUsers": 5
+    },
+    {
+        "date": "2021-09-02",
+        "dau": 8,
+        "returningAddresses": 3,
+        "newUsers": 5
+    },
+    {
+        "date": "2021-09-03",
+        "dau": 3,
+        "returningAddresses": 2,
+        "newUsers": 1
+    },
+    {
+        "date": "2021-09-04",
+        "dau": 3,
+        "returningAddresses": 3,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-09-06",
+        "dau": 2,
+        "returningAddresses": 2,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-09-08",
+        "dau": 2,
+        "returningAddresses": 1,
+        "newUsers": 1
+    },
+    {
+        "date": "2021-09-09",
+        "dau": 3,
+        "returningAddresses": 3,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-09-10",
+        "dau": 3,
+        "returningAddresses": 3,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-09-11",
+        "dau": 2,
+        "returningAddresses": 2,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-09-12",
+        "dau": 2,
+        "returningAddresses": 2,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-09-13",
+        "dau": 3,
+        "returningAddresses": 3,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-09-14",
+        "dau": 4,
+        "returningAddresses": 4,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-09-15",
+        "dau": 3,
+        "returningAddresses": 3,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-09-16",
+        "dau": 5,
+        "returningAddresses": 3,
+        "newUsers": 2
+    },
+    {
+        "date": "2021-09-17",
+        "dau": 4,
+        "returningAddresses": 4,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-09-18",
+        "dau": 3,
+        "returningAddresses": 2,
+        "newUsers": 1
+    },
+    {
+        "date": "2021-09-19",
+        "dau": 3,
+        "returningAddresses": 3,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-09-20",
+        "dau": 3,
+        "returningAddresses": 3,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-09-21",
+        "dau": 7,
+        "returningAddresses": 7,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-09-22",
+        "dau": 3,
+        "returningAddresses": 2,
+        "newUsers": 1
+    },
+    {
+        "date": "2021-09-23",
+        "dau": 5,
+        "returningAddresses": 3,
+        "newUsers": 2
+    },
+    {
+        "date": "2021-09-24",
+        "dau": 5,
+        "returningAddresses": 5,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-09-25",
+        "dau": 5,
+        "returningAddresses": 5,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-09-26",
+        "dau": 5,
+        "returningAddresses": 4,
+        "newUsers": 1
+    },
+    {
+        "date": "2021-09-27",
+        "dau": 5,
+        "returningAddresses": 5,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-09-28",
+        "dau": 5,
+        "returningAddresses": 5,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-09-29",
+        "dau": 6,
+        "returningAddresses": 6,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-09-30",
+        "dau": 3,
+        "returningAddresses": 3,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-10-01",
+        "dau": 5,
+        "returningAddresses": 5,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-10-02",
+        "dau": 6,
+        "returningAddresses": 5,
+        "newUsers": 1
+    },
+    {
+        "date": "2021-10-03",
+        "dau": 5,
+        "returningAddresses": 5,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-10-04",
+        "dau": 4,
+        "returningAddresses": 4,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-10-05",
+        "dau": 6,
+        "returningAddresses": 5,
+        "newUsers": 1
+    },
+    {
+        "date": "2021-10-06",
+        "dau": 4,
+        "returningAddresses": 4,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-10-07",
+        "dau": 5,
+        "returningAddresses": 4,
+        "newUsers": 1
+    },
+    {
+        "date": "2021-10-08",
+        "dau": 4,
+        "returningAddresses": 4,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-10-09",
+        "dau": 3,
+        "returningAddresses": 3,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-10-10",
+        "dau": 3,
+        "returningAddresses": 3,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-10-11",
+        "dau": 3,
+        "returningAddresses": 3,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-10-12",
+        "dau": 3,
+        "returningAddresses": 3,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-10-13",
+        "dau": 3,
+        "returningAddresses": 3,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-10-14",
+        "dau": 4,
+        "returningAddresses": 4,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-10-15",
+        "dau": 4,
+        "returningAddresses": 4,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-10-16",
+        "dau": 3,
+        "returningAddresses": 3,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-10-17",
+        "dau": 3,
+        "returningAddresses": 3,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-10-18",
+        "dau": 3,
+        "returningAddresses": 3,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-10-19",
+        "dau": 3,
+        "returningAddresses": 3,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-10-20",
+        "dau": 5,
+        "returningAddresses": 5,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-10-21",
+        "dau": 4,
+        "returningAddresses": 4,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-10-22",
+        "dau": 3,
+        "returningAddresses": 3,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-10-23",
+        "dau": 4,
+        "returningAddresses": 3,
+        "newUsers": 1
+    },
+    {
+        "date": "2021-10-24",
+        "dau": 4,
+        "returningAddresses": 3,
+        "newUsers": 1
+    },
+    {
+        "date": "2021-10-25",
+        "dau": 5,
+        "returningAddresses": 5,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-10-26",
+        "dau": 3,
+        "returningAddresses": 3,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-10-27",
+        "dau": 4,
+        "returningAddresses": 4,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-10-28",
+        "dau": 5,
+        "returningAddresses": 4,
+        "newUsers": 1
+    },
+    {
+        "date": "2021-10-29",
+        "dau": 4,
+        "returningAddresses": 4,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-10-30",
+        "dau": 4,
+        "returningAddresses": 3,
+        "newUsers": 1
+    },
+    {
+        "date": "2021-10-31",
+        "dau": 3,
+        "returningAddresses": 3,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-11-01",
+        "dau": 4,
+        "returningAddresses": 3,
+        "newUsers": 1
+    },
+    {
+        "date": "2021-11-02",
+        "dau": 6,
+        "returningAddresses": 5,
+        "newUsers": 1
+    },
+    {
+        "date": "2021-11-03",
+        "dau": 6,
+        "returningAddresses": 5,
+        "newUsers": 1
+    },
+    {
+        "date": "2021-11-04",
+        "dau": 7,
+        "returningAddresses": 7,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-11-05",
+        "dau": 6,
+        "returningAddresses": 6,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-11-06",
+        "dau": 5,
+        "returningAddresses": 5,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-11-07",
+        "dau": 7,
+        "returningAddresses": 4,
+        "newUsers": 3
+    },
+    {
+        "date": "2021-11-08",
+        "dau": 10,
+        "returningAddresses": 9,
+        "newUsers": 1
+    },
+    {
+        "date": "2021-11-09",
+        "dau": 8,
+        "returningAddresses": 7,
+        "newUsers": 1
+    },
+    {
+        "date": "2021-11-10",
+        "dau": 11,
+        "returningAddresses": 8,
+        "newUsers": 3
+    },
+    {
+        "date": "2021-11-11",
+        "dau": 6,
+        "returningAddresses": 6,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-11-12",
+        "dau": 8,
+        "returningAddresses": 7,
+        "newUsers": 1
+    },
+    {
+        "date": "2021-11-13",
+        "dau": 5,
+        "returningAddresses": 5,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-11-14",
+        "dau": 5,
+        "returningAddresses": 4,
+        "newUsers": 1
+    },
+    {
+        "date": "2021-11-15",
+        "dau": 6,
+        "returningAddresses": 6,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-11-16",
+        "dau": 12,
+        "returningAddresses": 10,
+        "newUsers": 2
+    },
+    {
+        "date": "2021-11-17",
+        "dau": 19,
+        "returningAddresses": 12,
+        "newUsers": 7
+    },
+    {
+        "date": "2021-11-18",
+        "dau": 26,
+        "returningAddresses": 16,
+        "newUsers": 10
+    },
+    {
+        "date": "2021-11-19",
+        "dau": 26,
+        "returningAddresses": 15,
+        "newUsers": 11
+    },
+    {
+        "date": "2021-11-20",
+        "dau": 23,
+        "returningAddresses": 17,
+        "newUsers": 6
+    },
+    {
+        "date": "2021-11-21",
+        "dau": 31,
+        "returningAddresses": 24,
+        "newUsers": 7
+    },
+    {
+        "date": "2021-11-22",
+        "dau": 27,
+        "returningAddresses": 24,
+        "newUsers": 3
+    },
+    {
+        "date": "2021-11-23",
+        "dau": 29,
+        "returningAddresses": 25,
+        "newUsers": 4
+    },
+    {
+        "date": "2021-11-24",
+        "dau": 42,
+        "returningAddresses": 33,
+        "newUsers": 9
+    },
+    {
+        "date": "2021-11-25",
+        "dau": 47,
+        "returningAddresses": 37,
+        "newUsers": 10
+    },
+    {
+        "date": "2021-11-26",
+        "dau": 51,
+        "returningAddresses": 39,
+        "newUsers": 12
+    },
+    {
+        "date": "2021-11-27",
+        "dau": 40,
+        "returningAddresses": 34,
+        "newUsers": 6
+    },
+    {
+        "date": "2021-11-28",
+        "dau": 47,
+        "returningAddresses": 43,
+        "newUsers": 4
+    },
+    {
+        "date": "2021-11-29",
+        "dau": 54,
+        "returningAddresses": 45,
+        "newUsers": 9
+    },
+    {
+        "date": "2021-11-30",
+        "dau": 56,
+        "returningAddresses": 48,
+        "newUsers": 8
+    },
+    {
+        "date": "2021-12-01",
+        "dau": 87,
+        "returningAddresses": 67,
+        "newUsers": 20
+    },
+    {
+        "date": "2021-12-02",
+        "dau": 74,
+        "returningAddresses": 60,
+        "newUsers": 14
+    },
+    {
+        "date": "2021-12-03",
+        "dau": 92,
+        "returningAddresses": 79,
+        "newUsers": 13
+    },
+    {
+        "date": "2021-12-04",
+        "dau": 89,
+        "returningAddresses": 85,
+        "newUsers": 4
+    },
+    {
+        "date": "2021-12-05",
+        "dau": 52,
+        "returningAddresses": 51,
+        "newUsers": 1
+    },
+    {
+        "date": "2021-12-06",
+        "dau": 61,
+        "returningAddresses": 57,
+        "newUsers": 4
+    },
+    {
+        "date": "2021-12-07",
+        "dau": 62,
+        "returningAddresses": 56,
+        "newUsers": 6
+    },
+    {
+        "date": "2021-12-08",
+        "dau": 63,
+        "returningAddresses": 56,
+        "newUsers": 7
+    },
+    {
+        "date": "2021-12-09",
+        "dau": 54,
+        "returningAddresses": 51,
+        "newUsers": 3
+    },
+    {
+        "date": "2021-12-10",
+        "dau": 51,
+        "returningAddresses": 47,
+        "newUsers": 4
+    },
+    {
+        "date": "2021-12-11",
+        "dau": 36,
+        "returningAddresses": 32,
+        "newUsers": 4
+    },
+    {
+        "date": "2021-12-12",
+        "dau": 47,
+        "returningAddresses": 43,
+        "newUsers": 4
+    },
+    {
+        "date": "2021-12-13",
+        "dau": 52,
+        "returningAddresses": 51,
+        "newUsers": 1
+    },
+    {
+        "date": "2021-12-14",
+        "dau": 74,
+        "returningAddresses": 69,
+        "newUsers": 5
+    },
+    {
+        "date": "2021-12-15",
+        "dau": 34,
+        "returningAddresses": 28,
+        "newUsers": 6
+    },
+    {
+        "date": "2021-12-16",
+        "dau": 35,
+        "returningAddresses": 31,
+        "newUsers": 4
+    },
+    {
+        "date": "2021-12-17",
+        "dau": 39,
+        "returningAddresses": 30,
+        "newUsers": 9
+    },
+    {
+        "date": "2021-12-18",
+        "dau": 34,
+        "returningAddresses": 34,
+        "newUsers": 0
+    },
+    {
+        "date": "2021-12-19",
+        "dau": 40,
+        "returningAddresses": 34,
+        "newUsers": 6
+    },
+    {
+        "date": "2021-12-20",
+        "dau": 47,
+        "returningAddresses": 43,
+        "newUsers": 4
+    },
+    {
+        "date": "2021-12-21",
+        "dau": 46,
+        "returningAddresses": 44,
+        "newUsers": 2
+    },
+    {
+        "date": "2021-12-22",
+        "dau": 50,
+        "returningAddresses": 41,
+        "newUsers": 9
+    },
+    {
+        "date": "2021-12-23",
+        "dau": 60,
+        "returningAddresses": 53,
+        "newUsers": 7
+    },
+    {
+        "date": "2021-12-24",
+        "dau": 57,
+        "returningAddresses": 50,
+        "newUsers": 7
+    },
+    {
+        "date": "2021-12-25",
+        "dau": 56,
+        "returningAddresses": 48,
+        "newUsers": 8
+    },
+    {
+        "date": "2021-12-26",
+        "dau": 53,
+        "returningAddresses": 48,
+        "newUsers": 5
+    },
+    {
+        "date": "2021-12-27",
+        "dau": 81,
+        "returningAddresses": 51,
+        "newUsers": 30
+    },
+    {
+        "date": "2021-12-28",
+        "dau": 114,
+        "returningAddresses": 72,
+        "newUsers": 42
+    },
+    {
+        "date": "2021-12-29",
+        "dau": 86,
+        "returningAddresses": 76,
+        "newUsers": 10
+    },
+    {
+        "date": "2021-12-30",
+        "dau": 44,
+        "returningAddresses": 39,
+        "newUsers": 5
+    },
+    {
+        "date": "2021-12-31",
+        "dau": 44,
+        "returningAddresses": 43,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-01-01",
+        "dau": 71,
+        "returningAddresses": 67,
+        "newUsers": 4
+    },
+    {
+        "date": "2022-01-02",
+        "dau": 71,
+        "returningAddresses": 67,
+        "newUsers": 4
+    },
+    {
+        "date": "2022-01-03",
+        "dau": 202,
+        "returningAddresses": 76,
+        "newUsers": 126
+    },
+    {
+        "date": "2022-01-04",
+        "dau": 167,
+        "returningAddresses": 84,
+        "newUsers": 83
+    },
+    {
+        "date": "2022-01-05",
+        "dau": 91,
+        "returningAddresses": 83,
+        "newUsers": 8
+    },
+    {
+        "date": "2022-01-06",
+        "dau": 45,
+        "returningAddresses": 40,
+        "newUsers": 5
+    },
+    {
+        "date": "2022-01-07",
+        "dau": 55,
+        "returningAddresses": 52,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-01-08",
+        "dau": 190,
+        "returningAddresses": 79,
+        "newUsers": 111
+    },
+    {
+        "date": "2022-01-09",
+        "dau": 87,
+        "returningAddresses": 37,
+        "newUsers": 50
+    },
+    {
+        "date": "2022-01-10",
+        "dau": 78,
+        "returningAddresses": 63,
+        "newUsers": 15
+    },
+    {
+        "date": "2022-01-11",
+        "dau": 77,
+        "returningAddresses": 64,
+        "newUsers": 13
+    },
+    {
+        "date": "2022-01-12",
+        "dau": 81,
+        "returningAddresses": 72,
+        "newUsers": 9
+    },
+    {
+        "date": "2022-01-13",
+        "dau": 45,
+        "returningAddresses": 39,
+        "newUsers": 6
+    },
+    {
+        "date": "2022-01-14",
+        "dau": 60,
+        "returningAddresses": 59,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-01-15",
+        "dau": 45,
+        "returningAddresses": 44,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-01-16",
+        "dau": 269,
+        "returningAddresses": 256,
+        "newUsers": 13
+    },
+    {
+        "date": "2022-01-17",
+        "dau": 402,
+        "returningAddresses": 76,
+        "newUsers": 326
+    },
+    {
+        "date": "2022-01-18",
+        "dau": 71,
+        "returningAddresses": 67,
+        "newUsers": 4
+    },
+    {
+        "date": "2022-01-19",
+        "dau": 58,
+        "returningAddresses": 56,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-01-20",
+        "dau": 50,
+        "returningAddresses": 47,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-01-21",
+        "dau": 78,
+        "returningAddresses": 73,
+        "newUsers": 5
+    },
+    {
+        "date": "2022-01-22",
+        "dau": 192,
+        "returningAddresses": 177,
+        "newUsers": 15
+    },
+    {
+        "date": "2022-01-23",
+        "dau": 410,
+        "returningAddresses": 241,
+        "newUsers": 169
+    },
+    {
+        "date": "2022-01-24",
+        "dau": 207,
+        "returningAddresses": 51,
+        "newUsers": 156
+    },
+    {
+        "date": "2022-01-25",
+        "dau": 49,
+        "returningAddresses": 45,
+        "newUsers": 4
+    },
+    {
+        "date": "2022-01-26",
+        "dau": 228,
+        "returningAddresses": 47,
+        "newUsers": 181
+    },
+    {
+        "date": "2022-01-27",
+        "dau": 47,
+        "returningAddresses": 43,
+        "newUsers": 4
+    },
+    {
+        "date": "2022-01-28",
+        "dau": 43,
+        "returningAddresses": 39,
+        "newUsers": 4
+    },
+    {
+        "date": "2022-01-29",
+        "dau": 36,
+        "returningAddresses": 35,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-01-30",
+        "dau": 42,
+        "returningAddresses": 41,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-01-31",
+        "dau": 57,
+        "returningAddresses": 51,
+        "newUsers": 6
+    },
+    {
+        "date": "2022-02-01",
+        "dau": 63,
+        "returningAddresses": 41,
+        "newUsers": 22
+    },
+    {
+        "date": "2022-02-02",
+        "dau": 61,
+        "returningAddresses": 55,
+        "newUsers": 6
+    },
+    {
+        "date": "2022-02-03",
+        "dau": 49,
+        "returningAddresses": 46,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-02-04",
+        "dau": 46,
+        "returningAddresses": 45,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-02-05",
+        "dau": 52,
+        "returningAddresses": 52,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-02-06",
+        "dau": 35,
+        "returningAddresses": 34,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-02-07",
+        "dau": 60,
+        "returningAddresses": 54,
+        "newUsers": 6
+    },
+    {
+        "date": "2022-02-08",
+        "dau": 74,
+        "returningAddresses": 69,
+        "newUsers": 5
+    },
+    {
+        "date": "2022-02-09",
+        "dau": 68,
+        "returningAddresses": 60,
+        "newUsers": 8
+    },
+    {
+        "date": "2022-02-10",
+        "dau": 53,
+        "returningAddresses": 46,
+        "newUsers": 7
+    },
+    {
+        "date": "2022-02-11",
+        "dau": 67,
+        "returningAddresses": 64,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-02-12",
+        "dau": 102,
+        "returningAddresses": 70,
+        "newUsers": 32
+    },
+    {
+        "date": "2022-02-13",
+        "dau": 60,
+        "returningAddresses": 55,
+        "newUsers": 5
+    },
+    {
+        "date": "2022-02-14",
+        "dau": 80,
+        "returningAddresses": 71,
+        "newUsers": 9
+    },
+    {
+        "date": "2022-02-15",
+        "dau": 92,
+        "returningAddresses": 84,
+        "newUsers": 8
+    },
+    {
+        "date": "2022-02-16",
+        "dau": 90,
+        "returningAddresses": 75,
+        "newUsers": 15
+    },
+    {
+        "date": "2022-02-17",
+        "dau": 62,
+        "returningAddresses": 57,
+        "newUsers": 5
+    },
+    {
+        "date": "2022-02-18",
+        "dau": 50,
+        "returningAddresses": 47,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-02-19",
+        "dau": 78,
+        "returningAddresses": 76,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-02-20",
+        "dau": 77,
+        "returningAddresses": 72,
+        "newUsers": 5
+    },
+    {
+        "date": "2022-02-21",
+        "dau": 90,
+        "returningAddresses": 84,
+        "newUsers": 6
+    },
+    {
+        "date": "2022-02-22",
+        "dau": 95,
+        "returningAddresses": 87,
+        "newUsers": 8
+    },
+    {
+        "date": "2022-02-23",
+        "dau": 102,
+        "returningAddresses": 100,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-02-24",
+        "dau": 85,
+        "returningAddresses": 84,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-02-25",
+        "dau": 61,
+        "returningAddresses": 58,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-02-26",
+        "dau": 73,
+        "returningAddresses": 72,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-02-27",
+        "dau": 65,
+        "returningAddresses": 61,
+        "newUsers": 4
+    },
+    {
+        "date": "2022-02-28",
+        "dau": 62,
+        "returningAddresses": 58,
+        "newUsers": 4
+    },
+    {
+        "date": "2022-03-01",
+        "dau": 103,
+        "returningAddresses": 100,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-03-02",
+        "dau": 79,
+        "returningAddresses": 77,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-03-03",
+        "dau": 80,
+        "returningAddresses": 68,
+        "newUsers": 12
+    },
+    {
+        "date": "2022-03-04",
+        "dau": 75,
+        "returningAddresses": 74,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-03-05",
+        "dau": 79,
+        "returningAddresses": 78,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-03-06",
+        "dau": 81,
+        "returningAddresses": 80,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-03-07",
+        "dau": 95,
+        "returningAddresses": 92,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-03-08",
+        "dau": 128,
+        "returningAddresses": 120,
+        "newUsers": 8
+    },
+    {
+        "date": "2022-03-09",
+        "dau": 94,
+        "returningAddresses": 91,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-03-10",
+        "dau": 69,
+        "returningAddresses": 62,
+        "newUsers": 7
+    },
+    {
+        "date": "2022-03-11",
+        "dau": 68,
+        "returningAddresses": 64,
+        "newUsers": 4
+    },
+    {
+        "date": "2022-03-12",
+        "dau": 48,
+        "returningAddresses": 48,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-03-13",
+        "dau": 63,
+        "returningAddresses": 62,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-03-14",
+        "dau": 71,
+        "returningAddresses": 70,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-03-15",
+        "dau": 65,
+        "returningAddresses": 63,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-03-16",
+        "dau": 64,
+        "returningAddresses": 62,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-03-17",
+        "dau": 52,
+        "returningAddresses": 50,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-03-18",
+        "dau": 57,
+        "returningAddresses": 55,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-03-19",
+        "dau": 43,
+        "returningAddresses": 42,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-03-20",
+        "dau": 54,
+        "returningAddresses": 51,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-03-21",
+        "dau": 59,
+        "returningAddresses": 57,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-03-22",
+        "dau": 65,
+        "returningAddresses": 62,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-03-23",
+        "dau": 59,
+        "returningAddresses": 59,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-03-24",
+        "dau": 52,
+        "returningAddresses": 52,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-03-25",
+        "dau": 54,
+        "returningAddresses": 53,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-03-26",
+        "dau": 41,
+        "returningAddresses": 40,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-03-27",
+        "dau": 56,
+        "returningAddresses": 52,
+        "newUsers": 4
+    },
+    {
+        "date": "2022-03-28",
+        "dau": 66,
+        "returningAddresses": 65,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-03-29",
+        "dau": 53,
+        "returningAddresses": 52,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-03-30",
+        "dau": 49,
+        "returningAddresses": 48,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-03-31",
+        "dau": 55,
+        "returningAddresses": 53,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-04-01",
+        "dau": 59,
+        "returningAddresses": 55,
+        "newUsers": 4
+    },
+    {
+        "date": "2022-04-02",
+        "dau": 53,
+        "returningAddresses": 51,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-04-03",
+        "dau": 64,
+        "returningAddresses": 57,
+        "newUsers": 7
+    },
+    {
+        "date": "2022-04-04",
+        "dau": 56,
+        "returningAddresses": 54,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-04-05",
+        "dau": 71,
+        "returningAddresses": 70,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-04-06",
+        "dau": 82,
+        "returningAddresses": 81,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-04-07",
+        "dau": 59,
+        "returningAddresses": 55,
+        "newUsers": 4
+    },
+    {
+        "date": "2022-04-08",
+        "dau": 67,
+        "returningAddresses": 64,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-04-09",
+        "dau": 49,
+        "returningAddresses": 48,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-04-10",
+        "dau": 53,
+        "returningAddresses": 53,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-04-11",
+        "dau": 68,
+        "returningAddresses": 68,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-04-12",
+        "dau": 48,
+        "returningAddresses": 46,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-04-13",
+        "dau": 58,
+        "returningAddresses": 55,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-04-14",
+        "dau": 50,
+        "returningAddresses": 49,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-04-15",
+        "dau": 53,
+        "returningAddresses": 52,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-04-16",
+        "dau": 43,
+        "returningAddresses": 42,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-04-17",
+        "dau": 47,
+        "returningAddresses": 46,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-04-18",
+        "dau": 75,
+        "returningAddresses": 74,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-04-19",
+        "dau": 70,
+        "returningAddresses": 69,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-04-20",
+        "dau": 58,
+        "returningAddresses": 56,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-04-21",
+        "dau": 60,
+        "returningAddresses": 58,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-04-22",
+        "dau": 51,
+        "returningAddresses": 50,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-04-23",
+        "dau": 50,
+        "returningAddresses": 48,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-04-24",
+        "dau": 51,
+        "returningAddresses": 51,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-04-25",
+        "dau": 64,
+        "returningAddresses": 64,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-04-26",
+        "dau": 69,
+        "returningAddresses": 67,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-04-27",
+        "dau": 55,
+        "returningAddresses": 52,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-04-28",
+        "dau": 55,
+        "returningAddresses": 53,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-04-29",
+        "dau": 64,
+        "returningAddresses": 64,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-04-30",
+        "dau": 69,
+        "returningAddresses": 66,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-05-01",
+        "dau": 71,
+        "returningAddresses": 68,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-05-02",
+        "dau": 53,
+        "returningAddresses": 51,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-05-03",
+        "dau": 60,
+        "returningAddresses": 59,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-05-04",
+        "dau": 65,
+        "returningAddresses": 65,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-05-05",
+        "dau": 55,
+        "returningAddresses": 53,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-05-06",
+        "dau": 62,
+        "returningAddresses": 56,
+        "newUsers": 6
+    },
+    {
+        "date": "2022-05-07",
+        "dau": 57,
+        "returningAddresses": 56,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-05-08",
+        "dau": 58,
+        "returningAddresses": 58,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-05-09",
+        "dau": 81,
+        "returningAddresses": 80,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-05-10",
+        "dau": 64,
+        "returningAddresses": 62,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-05-11",
+        "dau": 85,
+        "returningAddresses": 81,
+        "newUsers": 4
+    },
+    {
+        "date": "2022-05-12",
+        "dau": 59,
+        "returningAddresses": 56,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-05-13",
+        "dau": 37,
+        "returningAddresses": 37,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-05-14",
+        "dau": 25,
+        "returningAddresses": 24,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-05-15",
+        "dau": 33,
+        "returningAddresses": 30,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-05-16",
+        "dau": 30,
+        "returningAddresses": 29,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-05-17",
+        "dau": 37,
+        "returningAddresses": 33,
+        "newUsers": 4
+    },
+    {
+        "date": "2022-05-18",
+        "dau": 43,
+        "returningAddresses": 41,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-05-19",
+        "dau": 40,
+        "returningAddresses": 37,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-05-20",
+        "dau": 34,
+        "returningAddresses": 34,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-05-21",
+        "dau": 28,
+        "returningAddresses": 28,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-05-22",
+        "dau": 28,
+        "returningAddresses": 28,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-05-23",
+        "dau": 39,
+        "returningAddresses": 38,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-05-24",
+        "dau": 29,
+        "returningAddresses": 28,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-05-25",
+        "dau": 49,
+        "returningAddresses": 30,
+        "newUsers": 19
+    },
+    {
+        "date": "2022-05-26",
+        "dau": 34,
+        "returningAddresses": 31,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-05-27",
+        "dau": 33,
+        "returningAddresses": 31,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-05-28",
+        "dau": 27,
+        "returningAddresses": 26,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-05-29",
+        "dau": 24,
+        "returningAddresses": 24,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-05-30",
+        "dau": 34,
+        "returningAddresses": 33,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-05-31",
+        "dau": 34,
+        "returningAddresses": 33,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-06-01",
+        "dau": 30,
+        "returningAddresses": 30,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-06-02",
+        "dau": 31,
+        "returningAddresses": 30,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-06-03",
+        "dau": 35,
+        "returningAddresses": 34,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-06-04",
+        "dau": 22,
+        "returningAddresses": 22,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-06-05",
+        "dau": 30,
+        "returningAddresses": 29,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-06-06",
+        "dau": 38,
+        "returningAddresses": 38,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-06-07",
+        "dau": 43,
+        "returningAddresses": 42,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-06-08",
+        "dau": 29,
+        "returningAddresses": 27,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-06-09",
+        "dau": 29,
+        "returningAddresses": 27,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-06-10",
+        "dau": 30,
+        "returningAddresses": 29,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-06-11",
+        "dau": 38,
+        "returningAddresses": 34,
+        "newUsers": 4
+    },
+    {
+        "date": "2022-06-12",
+        "dau": 45,
+        "returningAddresses": 41,
+        "newUsers": 4
+    },
+    {
+        "date": "2022-06-13",
+        "dau": 47,
+        "returningAddresses": 45,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-06-14",
+        "dau": 34,
+        "returningAddresses": 33,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-06-15",
+        "dau": 28,
+        "returningAddresses": 26,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-06-16",
+        "dau": 30,
+        "returningAddresses": 28,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-06-17",
+        "dau": 28,
+        "returningAddresses": 26,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-06-18",
+        "dau": 34,
+        "returningAddresses": 32,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-06-19",
+        "dau": 23,
+        "returningAddresses": 22,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-06-20",
+        "dau": 27,
+        "returningAddresses": 26,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-06-21",
+        "dau": 25,
+        "returningAddresses": 25,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-06-22",
+        "dau": 29,
+        "returningAddresses": 28,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-06-23",
+        "dau": 28,
+        "returningAddresses": 25,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-06-24",
+        "dau": 28,
+        "returningAddresses": 27,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-06-25",
+        "dau": 29,
+        "returningAddresses": 26,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-06-26",
+        "dau": 27,
+        "returningAddresses": 25,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-06-27",
+        "dau": 24,
+        "returningAddresses": 23,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-06-28",
+        "dau": 32,
+        "returningAddresses": 29,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-06-29",
+        "dau": 31,
+        "returningAddresses": 30,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-06-30",
+        "dau": 33,
+        "returningAddresses": 33,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-07-01",
+        "dau": 31,
+        "returningAddresses": 28,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-07-02",
+        "dau": 24,
+        "returningAddresses": 23,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-07-03",
+        "dau": 25,
+        "returningAddresses": 25,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-07-04",
+        "dau": 31,
+        "returningAddresses": 29,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-07-05",
+        "dau": 33,
+        "returningAddresses": 31,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-07-06",
+        "dau": 34,
+        "returningAddresses": 32,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-07-07",
+        "dau": 28,
+        "returningAddresses": 28,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-07-08",
+        "dau": 38,
+        "returningAddresses": 36,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-07-09",
+        "dau": 32,
+        "returningAddresses": 28,
+        "newUsers": 4
+    },
+    {
+        "date": "2022-07-10",
+        "dau": 32,
+        "returningAddresses": 32,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-07-11",
+        "dau": 36,
+        "returningAddresses": 35,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-07-12",
+        "dau": 43,
+        "returningAddresses": 42,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-07-13",
+        "dau": 63,
+        "returningAddresses": 56,
+        "newUsers": 7
+    },
+    {
+        "date": "2022-07-14",
+        "dau": 42,
+        "returningAddresses": 40,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-07-15",
+        "dau": 37,
+        "returningAddresses": 35,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-07-16",
+        "dau": 34,
+        "returningAddresses": 34,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-07-17",
+        "dau": 33,
+        "returningAddresses": 32,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-07-18",
+        "dau": 42,
+        "returningAddresses": 42,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-07-19",
+        "dau": 41,
+        "returningAddresses": 39,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-07-20",
+        "dau": 46,
+        "returningAddresses": 44,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-07-21",
+        "dau": 43,
+        "returningAddresses": 42,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-07-22",
+        "dau": 42,
+        "returningAddresses": 41,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-07-23",
+        "dau": 38,
+        "returningAddresses": 36,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-07-24",
+        "dau": 32,
+        "returningAddresses": 31,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-07-25",
+        "dau": 39,
+        "returningAddresses": 38,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-07-26",
+        "dau": 43,
+        "returningAddresses": 42,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-07-27",
+        "dau": 40,
+        "returningAddresses": 38,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-07-28",
+        "dau": 36,
+        "returningAddresses": 33,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-07-29",
+        "dau": 39,
+        "returningAddresses": 36,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-07-30",
+        "dau": 27,
+        "returningAddresses": 26,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-07-31",
+        "dau": 25,
+        "returningAddresses": 25,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-08-01",
+        "dau": 33,
+        "returningAddresses": 32,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-08-02",
+        "dau": 42,
+        "returningAddresses": 41,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-08-03",
+        "dau": 33,
+        "returningAddresses": 32,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-08-04",
+        "dau": 32,
+        "returningAddresses": 32,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-08-05",
+        "dau": 33,
+        "returningAddresses": 33,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-08-06",
+        "dau": 29,
+        "returningAddresses": 29,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-08-07",
+        "dau": 31,
+        "returningAddresses": 31,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-08-08",
+        "dau": 38,
+        "returningAddresses": 35,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-08-09",
+        "dau": 35,
+        "returningAddresses": 35,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-08-10",
+        "dau": 41,
+        "returningAddresses": 40,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-08-11",
+        "dau": 37,
+        "returningAddresses": 34,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-08-12",
+        "dau": 31,
+        "returningAddresses": 30,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-08-13",
+        "dau": 31,
+        "returningAddresses": 31,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-08-14",
+        "dau": 24,
+        "returningAddresses": 24,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-08-15",
+        "dau": 28,
+        "returningAddresses": 27,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-08-16",
+        "dau": 29,
+        "returningAddresses": 25,
+        "newUsers": 4
+    },
+    {
+        "date": "2022-08-17",
+        "dau": 32,
+        "returningAddresses": 32,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-08-18",
+        "dau": 27,
+        "returningAddresses": 26,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-08-19",
+        "dau": 38,
+        "returningAddresses": 37,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-08-20",
+        "dau": 23,
+        "returningAddresses": 23,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-08-21",
+        "dau": 25,
+        "returningAddresses": 23,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-08-22",
+        "dau": 25,
+        "returningAddresses": 25,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-08-23",
+        "dau": 26,
+        "returningAddresses": 26,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-08-24",
+        "dau": 35,
+        "returningAddresses": 33,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-08-25",
+        "dau": 22,
+        "returningAddresses": 22,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-08-26",
+        "dau": 24,
+        "returningAddresses": 22,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-08-27",
+        "dau": 24,
+        "returningAddresses": 24,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-08-28",
+        "dau": 21,
+        "returningAddresses": 20,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-08-29",
+        "dau": 23,
+        "returningAddresses": 22,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-08-30",
+        "dau": 30,
+        "returningAddresses": 30,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-08-31",
+        "dau": 22,
+        "returningAddresses": 22,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-09-01",
+        "dau": 29,
+        "returningAddresses": 29,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-09-02",
+        "dau": 33,
+        "returningAddresses": 29,
+        "newUsers": 4
+    },
+    {
+        "date": "2022-09-03",
+        "dau": 23,
+        "returningAddresses": 22,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-09-04",
+        "dau": 21,
+        "returningAddresses": 20,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-09-05",
+        "dau": 35,
+        "returningAddresses": 33,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-09-06",
+        "dau": 38,
+        "returningAddresses": 37,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-09-07",
+        "dau": 30,
+        "returningAddresses": 29,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-09-08",
+        "dau": 32,
+        "returningAddresses": 29,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-09-09",
+        "dau": 41,
+        "returningAddresses": 39,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-09-10",
+        "dau": 30,
+        "returningAddresses": 28,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-09-11",
+        "dau": 27,
+        "returningAddresses": 27,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-09-12",
+        "dau": 34,
+        "returningAddresses": 29,
+        "newUsers": 5
+    },
+    {
+        "date": "2022-09-13",
+        "dau": 40,
+        "returningAddresses": 37,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-09-14",
+        "dau": 32,
+        "returningAddresses": 32,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-09-15",
+        "dau": 32,
+        "returningAddresses": 32,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-09-16",
+        "dau": 29,
+        "returningAddresses": 29,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-09-17",
+        "dau": 28,
+        "returningAddresses": 27,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-09-18",
+        "dau": 32,
+        "returningAddresses": 32,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-09-19",
+        "dau": 36,
+        "returningAddresses": 36,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-09-20",
+        "dau": 40,
+        "returningAddresses": 36,
+        "newUsers": 4
+    },
+    {
+        "date": "2022-09-21",
+        "dau": 38,
+        "returningAddresses": 37,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-09-22",
+        "dau": 28,
+        "returningAddresses": 28,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-09-23",
+        "dau": 26,
+        "returningAddresses": 26,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-09-24",
+        "dau": 23,
+        "returningAddresses": 22,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-09-25",
+        "dau": 26,
+        "returningAddresses": 26,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-09-26",
+        "dau": 31,
+        "returningAddresses": 29,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-09-27",
+        "dau": 35,
+        "returningAddresses": 33,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-09-28",
+        "dau": 28,
+        "returningAddresses": 28,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-09-29",
+        "dau": 24,
+        "returningAddresses": 24,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-09-30",
+        "dau": 26,
+        "returningAddresses": 26,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-10-01",
+        "dau": 23,
+        "returningAddresses": 22,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-10-02",
+        "dau": 23,
+        "returningAddresses": 22,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-10-03",
+        "dau": 27,
+        "returningAddresses": 25,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-10-04",
+        "dau": 23,
+        "returningAddresses": 22,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-10-05",
+        "dau": 40,
+        "returningAddresses": 40,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-10-06",
+        "dau": 25,
+        "returningAddresses": 21,
+        "newUsers": 4
+    },
+    {
+        "date": "2022-10-07",
+        "dau": 24,
+        "returningAddresses": 22,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-10-08",
+        "dau": 30,
+        "returningAddresses": 27,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-10-09",
+        "dau": 30,
+        "returningAddresses": 27,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-10-10",
+        "dau": 36,
+        "returningAddresses": 34,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-10-11",
+        "dau": 39,
+        "returningAddresses": 36,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-10-12",
+        "dau": 31,
+        "returningAddresses": 29,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-10-13",
+        "dau": 40,
+        "returningAddresses": 40,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-10-14",
+        "dau": 36,
+        "returningAddresses": 33,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-10-15",
+        "dau": 31,
+        "returningAddresses": 27,
+        "newUsers": 4
+    },
+    {
+        "date": "2022-10-16",
+        "dau": 36,
+        "returningAddresses": 33,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-10-17",
+        "dau": 50,
+        "returningAddresses": 40,
+        "newUsers": 10
+    },
+    {
+        "date": "2022-10-18",
+        "dau": 91,
+        "returningAddresses": 43,
+        "newUsers": 48
+    },
+    {
+        "date": "2022-10-19",
+        "dau": 43,
+        "returningAddresses": 40,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-10-20",
+        "dau": 52,
+        "returningAddresses": 34,
+        "newUsers": 18
+    },
+    {
+        "date": "2022-10-21",
+        "dau": 42,
+        "returningAddresses": 35,
+        "newUsers": 7
+    },
+    {
+        "date": "2022-10-22",
+        "dau": 43,
+        "returningAddresses": 28,
+        "newUsers": 15
+    },
+    {
+        "date": "2022-10-23",
+        "dau": 32,
+        "returningAddresses": 31,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-10-24",
+        "dau": 59,
+        "returningAddresses": 41,
+        "newUsers": 18
+    },
+    {
+        "date": "2022-10-25",
+        "dau": 47,
+        "returningAddresses": 46,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-10-26",
+        "dau": 44,
+        "returningAddresses": 42,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-10-27",
+        "dau": 47,
+        "returningAddresses": 42,
+        "newUsers": 5
+    },
+    {
+        "date": "2022-10-28",
+        "dau": 54,
+        "returningAddresses": 47,
+        "newUsers": 7
+    },
+    {
+        "date": "2022-10-29",
+        "dau": 43,
+        "returningAddresses": 40,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-10-30",
+        "dau": 56,
+        "returningAddresses": 46,
+        "newUsers": 10
+    },
+    {
+        "date": "2022-10-31",
+        "dau": 60,
+        "returningAddresses": 53,
+        "newUsers": 7
+    },
+    {
+        "date": "2022-11-01",
+        "dau": 95,
+        "returningAddresses": 55,
+        "newUsers": 40
+    },
+    {
+        "date": "2022-11-02",
+        "dau": 72,
+        "returningAddresses": 67,
+        "newUsers": 5
+    },
+    {
+        "date": "2022-11-03",
+        "dau": 63,
+        "returningAddresses": 56,
+        "newUsers": 7
+    },
+    {
+        "date": "2022-11-04",
+        "dau": 83,
+        "returningAddresses": 60,
+        "newUsers": 23
+    },
+    {
+        "date": "2022-11-05",
+        "dau": 59,
+        "returningAddresses": 48,
+        "newUsers": 11
+    },
+    {
+        "date": "2022-11-06",
+        "dau": 55,
+        "returningAddresses": 48,
+        "newUsers": 7
+    },
+    {
+        "date": "2022-11-07",
+        "dau": 66,
+        "returningAddresses": 51,
+        "newUsers": 15
+    },
+    {
+        "date": "2022-11-08",
+        "dau": 104,
+        "returningAddresses": 81,
+        "newUsers": 23
+    },
+    {
+        "date": "2022-11-09",
+        "dau": 73,
+        "returningAddresses": 70,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-11-10",
+        "dau": 65,
+        "returningAddresses": 42,
+        "newUsers": 23
+    },
+    {
+        "date": "2022-11-11",
+        "dau": 66,
+        "returningAddresses": 44,
+        "newUsers": 22
+    },
+    {
+        "date": "2022-11-12",
+        "dau": 37,
+        "returningAddresses": 33,
+        "newUsers": 4
+    },
+    {
+        "date": "2022-11-13",
+        "dau": 44,
+        "returningAddresses": 40,
+        "newUsers": 4
+    },
+    {
+        "date": "2022-11-14",
+        "dau": 70,
+        "returningAddresses": 65,
+        "newUsers": 5
+    },
+    {
+        "date": "2022-11-15",
+        "dau": 56,
+        "returningAddresses": 54,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-11-16",
+        "dau": 46,
+        "returningAddresses": 41,
+        "newUsers": 5
+    },
+    {
+        "date": "2022-11-17",
+        "dau": 55,
+        "returningAddresses": 43,
+        "newUsers": 12
+    },
+    {
+        "date": "2022-11-18",
+        "dau": 48,
+        "returningAddresses": 43,
+        "newUsers": 5
+    },
+    {
+        "date": "2022-11-19",
+        "dau": 36,
+        "returningAddresses": 32,
+        "newUsers": 4
+    },
+    {
+        "date": "2022-11-20",
+        "dau": 55,
+        "returningAddresses": 52,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-11-21",
+        "dau": 71,
+        "returningAddresses": 66,
+        "newUsers": 5
+    },
+    {
+        "date": "2022-11-22",
+        "dau": 52,
+        "returningAddresses": 50,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-11-23",
+        "dau": 48,
+        "returningAddresses": 47,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-11-24",
+        "dau": 44,
+        "returningAddresses": 44,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-11-25",
+        "dau": 42,
+        "returningAddresses": 40,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-11-26",
+        "dau": 37,
+        "returningAddresses": 37,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-11-27",
+        "dau": 39,
+        "returningAddresses": 39,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-11-28",
+        "dau": 48,
+        "returningAddresses": 46,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-11-29",
+        "dau": 46,
+        "returningAddresses": 45,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-11-30",
+        "dau": 59,
+        "returningAddresses": 52,
+        "newUsers": 7
+    },
+    {
+        "date": "2022-12-01",
+        "dau": 43,
+        "returningAddresses": 39,
+        "newUsers": 4
+    },
+    {
+        "date": "2022-12-02",
+        "dau": 49,
+        "returningAddresses": 43,
+        "newUsers": 6
+    },
+    {
+        "date": "2022-12-03",
+        "dau": 40,
+        "returningAddresses": 37,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-12-04",
+        "dau": 40,
+        "returningAddresses": 39,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-12-05",
+        "dau": 56,
+        "returningAddresses": 52,
+        "newUsers": 4
+    },
+    {
+        "date": "2022-12-06",
+        "dau": 55,
+        "returningAddresses": 51,
+        "newUsers": 4
+    },
+    {
+        "date": "2022-12-07",
+        "dau": 59,
+        "returningAddresses": 56,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-12-08",
+        "dau": 48,
+        "returningAddresses": 46,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-12-09",
+        "dau": 45,
+        "returningAddresses": 42,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-12-10",
+        "dau": 47,
+        "returningAddresses": 44,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-12-11",
+        "dau": 45,
+        "returningAddresses": 42,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-12-12",
+        "dau": 50,
+        "returningAddresses": 48,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-12-13",
+        "dau": 54,
+        "returningAddresses": 52,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-12-14",
+        "dau": 49,
+        "returningAddresses": 46,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-12-15",
+        "dau": 39,
+        "returningAddresses": 35,
+        "newUsers": 4
+    },
+    {
+        "date": "2022-12-16",
+        "dau": 60,
+        "returningAddresses": 56,
+        "newUsers": 4
+    },
+    {
+        "date": "2022-12-17",
+        "dau": 41,
+        "returningAddresses": 39,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-12-18",
+        "dau": 40,
+        "returningAddresses": 37,
+        "newUsers": 3
+    },
+    {
+        "date": "2022-12-19",
+        "dau": 44,
+        "returningAddresses": 43,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-12-20",
+        "dau": 43,
+        "returningAddresses": 43,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-12-21",
+        "dau": 45,
+        "returningAddresses": 44,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-12-22",
+        "dau": 44,
+        "returningAddresses": 43,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-12-23",
+        "dau": 42,
+        "returningAddresses": 41,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-12-24",
+        "dau": 34,
+        "returningAddresses": 32,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-12-25",
+        "dau": 39,
+        "returningAddresses": 39,
+        "newUsers": 0
+    },
+    {
+        "date": "2022-12-26",
+        "dau": 37,
+        "returningAddresses": 35,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-12-27",
+        "dau": 43,
+        "returningAddresses": 42,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-12-28",
+        "dau": 43,
+        "returningAddresses": 41,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-12-29",
+        "dau": 42,
+        "returningAddresses": 41,
+        "newUsers": 1
+    },
+    {
+        "date": "2022-12-30",
+        "dau": 38,
+        "returningAddresses": 36,
+        "newUsers": 2
+    },
+    {
+        "date": "2022-12-31",
+        "dau": 35,
+        "returningAddresses": 34,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-01-01",
+        "dau": 34,
+        "returningAddresses": 33,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-01-02",
+        "dau": 44,
+        "returningAddresses": 43,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-01-03",
+        "dau": 47,
+        "returningAddresses": 47,
+        "newUsers": 0
+    },
+    {
+        "date": "2023-01-04",
+        "dau": 55,
+        "returningAddresses": 53,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-01-05",
+        "dau": 43,
+        "returningAddresses": 42,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-01-06",
+        "dau": 50,
+        "returningAddresses": 49,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-01-07",
+        "dau": 35,
+        "returningAddresses": 34,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-01-08",
+        "dau": 43,
+        "returningAddresses": 41,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-01-09",
+        "dau": 68,
+        "returningAddresses": 64,
+        "newUsers": 4
+    },
+    {
+        "date": "2023-01-10",
+        "dau": 51,
+        "returningAddresses": 49,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-01-11",
+        "dau": 57,
+        "returningAddresses": 55,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-01-12",
+        "dau": 79,
+        "returningAddresses": 69,
+        "newUsers": 10
+    },
+    {
+        "date": "2023-01-13",
+        "dau": 60,
+        "returningAddresses": 57,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-01-14",
+        "dau": 75,
+        "returningAddresses": 73,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-01-15",
+        "dau": 56,
+        "returningAddresses": 55,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-01-16",
+        "dau": 57,
+        "returningAddresses": 56,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-01-17",
+        "dau": 54,
+        "returningAddresses": 54,
+        "newUsers": 0
+    },
+    {
+        "date": "2023-01-18",
+        "dau": 67,
+        "returningAddresses": 64,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-01-19",
+        "dau": 49,
+        "returningAddresses": 46,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-01-20",
+        "dau": 65,
+        "returningAddresses": 63,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-01-21",
+        "dau": 62,
+        "returningAddresses": 59,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-01-22",
+        "dau": 61,
+        "returningAddresses": 58,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-01-23",
+        "dau": 52,
+        "returningAddresses": 52,
+        "newUsers": 0
+    },
+    {
+        "date": "2023-01-24",
+        "dau": 59,
+        "returningAddresses": 58,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-01-25",
+        "dau": 67,
+        "returningAddresses": 62,
+        "newUsers": 5
+    },
+    {
+        "date": "2023-01-26",
+        "dau": 66,
+        "returningAddresses": 62,
+        "newUsers": 4
+    },
+    {
+        "date": "2023-01-27",
+        "dau": 58,
+        "returningAddresses": 56,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-01-28",
+        "dau": 53,
+        "returningAddresses": 52,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-01-29",
+        "dau": 64,
+        "returningAddresses": 63,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-01-30",
+        "dau": 83,
+        "returningAddresses": 82,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-01-31",
+        "dau": 68,
+        "returningAddresses": 66,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-02-01",
+        "dau": 89,
+        "returningAddresses": 86,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-02-02",
+        "dau": 75,
+        "returningAddresses": 72,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-02-03",
+        "dau": 64,
+        "returningAddresses": 61,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-02-04",
+        "dau": 57,
+        "returningAddresses": 55,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-02-05",
+        "dau": 59,
+        "returningAddresses": 58,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-02-06",
+        "dau": 48,
+        "returningAddresses": 47,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-02-07",
+        "dau": 64,
+        "returningAddresses": 62,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-02-08",
+        "dau": 56,
+        "returningAddresses": 56,
+        "newUsers": 0
+    },
+    {
+        "date": "2023-02-09",
+        "dau": 77,
+        "returningAddresses": 77,
+        "newUsers": 0
+    },
+    {
+        "date": "2023-02-10",
+        "dau": 66,
+        "returningAddresses": 64,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-02-11",
+        "dau": 51,
+        "returningAddresses": 50,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-02-12",
+        "dau": 53,
+        "returningAddresses": 52,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-02-13",
+        "dau": 64,
+        "returningAddresses": 61,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-02-14",
+        "dau": 57,
+        "returningAddresses": 55,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-02-15",
+        "dau": 71,
+        "returningAddresses": 69,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-02-16",
+        "dau": 77,
+        "returningAddresses": 72,
+        "newUsers": 5
+    },
+    {
+        "date": "2023-02-17",
+        "dau": 62,
+        "returningAddresses": 59,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-02-18",
+        "dau": 55,
+        "returningAddresses": 48,
+        "newUsers": 7
+    },
+    {
+        "date": "2023-02-19",
+        "dau": 62,
+        "returningAddresses": 53,
+        "newUsers": 9
+    },
+    {
+        "date": "2023-02-20",
+        "dau": 68,
+        "returningAddresses": 60,
+        "newUsers": 8
+    },
+    {
+        "date": "2023-02-21",
+        "dau": 64,
+        "returningAddresses": 61,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-02-22",
+        "dau": 68,
+        "returningAddresses": 66,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-02-23",
+        "dau": 54,
+        "returningAddresses": 49,
+        "newUsers": 5
+    },
+    {
+        "date": "2023-02-24",
+        "dau": 65,
+        "returningAddresses": 64,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-02-25",
+        "dau": 61,
+        "returningAddresses": 53,
+        "newUsers": 8
+    },
+    {
+        "date": "2023-02-26",
+        "dau": 60,
+        "returningAddresses": 57,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-02-27",
+        "dau": 65,
+        "returningAddresses": 62,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-02-28",
+        "dau": 66,
+        "returningAddresses": 65,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-03-01",
+        "dau": 64,
+        "returningAddresses": 62,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-03-02",
+        "dau": 64,
+        "returningAddresses": 62,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-03-03",
+        "dau": 86,
+        "returningAddresses": 86,
+        "newUsers": 0
+    },
+    {
+        "date": "2023-03-04",
+        "dau": 69,
+        "returningAddresses": 69,
+        "newUsers": 0
+    },
+    {
+        "date": "2023-03-05",
+        "dau": 52,
+        "returningAddresses": 50,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-03-06",
+        "dau": 65,
+        "returningAddresses": 47,
+        "newUsers": 18
+    },
+    {
+        "date": "2023-03-07",
+        "dau": 58,
+        "returningAddresses": 58,
+        "newUsers": 0
+    },
+    {
+        "date": "2023-03-08",
+        "dau": 74,
+        "returningAddresses": 69,
+        "newUsers": 5
+    },
+    {
+        "date": "2023-03-09",
+        "dau": 85,
+        "returningAddresses": 82,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-03-10",
+        "dau": 88,
+        "returningAddresses": 83,
+        "newUsers": 5
+    },
+    {
+        "date": "2023-03-11",
+        "dau": 58,
+        "returningAddresses": 57,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-03-12",
+        "dau": 58,
+        "returningAddresses": 57,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-03-13",
+        "dau": 91,
+        "returningAddresses": 88,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-03-14",
+        "dau": 83,
+        "returningAddresses": 80,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-03-15",
+        "dau": 70,
+        "returningAddresses": 67,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-03-16",
+        "dau": 63,
+        "returningAddresses": 60,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-03-17",
+        "dau": 84,
+        "returningAddresses": 78,
+        "newUsers": 6
+    },
+    {
+        "date": "2023-03-18",
+        "dau": 69,
+        "returningAddresses": 63,
+        "newUsers": 6
+    },
+    {
+        "date": "2023-03-19",
+        "dau": 61,
+        "returningAddresses": 55,
+        "newUsers": 6
+    },
+    {
+        "date": "2023-03-20",
+        "dau": 76,
+        "returningAddresses": 72,
+        "newUsers": 4
+    },
+    {
+        "date": "2023-03-21",
+        "dau": 66,
+        "returningAddresses": 64,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-03-22",
+        "dau": 84,
+        "returningAddresses": 83,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-03-23",
+        "dau": 61,
+        "returningAddresses": 58,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-03-24",
+        "dau": 73,
+        "returningAddresses": 66,
+        "newUsers": 7
+    },
+    {
+        "date": "2023-03-25",
+        "dau": 62,
+        "returningAddresses": 58,
+        "newUsers": 4
+    },
+    {
+        "date": "2023-03-26",
+        "dau": 62,
+        "returningAddresses": 59,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-03-27",
+        "dau": 74,
+        "returningAddresses": 72,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-03-28",
+        "dau": 68,
+        "returningAddresses": 67,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-03-29",
+        "dau": 79,
+        "returningAddresses": 75,
+        "newUsers": 4
+    },
+    {
+        "date": "2023-03-30",
+        "dau": 78,
+        "returningAddresses": 75,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-03-31",
+        "dau": 63,
+        "returningAddresses": 60,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-04-01",
+        "dau": 67,
+        "returningAddresses": 66,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-04-02",
+        "dau": 66,
+        "returningAddresses": 65,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-04-03",
+        "dau": 84,
+        "returningAddresses": 84,
+        "newUsers": 0
+    },
+    {
+        "date": "2023-04-04",
+        "dau": 62,
+        "returningAddresses": 58,
+        "newUsers": 4
+    },
+    {
+        "date": "2023-04-05",
+        "dau": 69,
+        "returningAddresses": 67,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-04-06",
+        "dau": 69,
+        "returningAddresses": 67,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-04-07",
+        "dau": 72,
+        "returningAddresses": 70,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-04-08",
+        "dau": 54,
+        "returningAddresses": 51,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-04-09",
+        "dau": 53,
+        "returningAddresses": 52,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-04-10",
+        "dau": 79,
+        "returningAddresses": 77,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-04-11",
+        "dau": 78,
+        "returningAddresses": 78,
+        "newUsers": 0
+    },
+    {
+        "date": "2023-04-12",
+        "dau": 83,
+        "returningAddresses": 77,
+        "newUsers": 6
+    },
+    {
+        "date": "2023-04-13",
+        "dau": 79,
+        "returningAddresses": 75,
+        "newUsers": 4
+    },
+    {
+        "date": "2023-04-14",
+        "dau": 104,
+        "returningAddresses": 94,
+        "newUsers": 10
+    },
+    {
+        "date": "2023-04-15",
+        "dau": 74,
+        "returningAddresses": 69,
+        "newUsers": 5
+    },
+    {
+        "date": "2023-04-16",
+        "dau": 64,
+        "returningAddresses": 63,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-04-17",
+        "dau": 79,
+        "returningAddresses": 74,
+        "newUsers": 5
+    },
+    {
+        "date": "2023-04-18",
+        "dau": 69,
+        "returningAddresses": 64,
+        "newUsers": 5
+    },
+    {
+        "date": "2023-04-19",
+        "dau": 90,
+        "returningAddresses": 85,
+        "newUsers": 5
+    },
+    {
+        "date": "2023-04-20",
+        "dau": 68,
+        "returningAddresses": 66,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-04-21",
+        "dau": 82,
+        "returningAddresses": 79,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-04-22",
+        "dau": 52,
+        "returningAddresses": 48,
+        "newUsers": 4
+    },
+    {
+        "date": "2023-04-23",
+        "dau": 59,
+        "returningAddresses": 58,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-04-24",
+        "dau": 65,
+        "returningAddresses": 58,
+        "newUsers": 7
+    },
+    {
+        "date": "2023-04-25",
+        "dau": 90,
+        "returningAddresses": 75,
+        "newUsers": 15
+    },
+    {
+        "date": "2023-04-26",
+        "dau": 84,
+        "returningAddresses": 81,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-04-27",
+        "dau": 85,
+        "returningAddresses": 75,
+        "newUsers": 10
+    },
+    {
+        "date": "2023-04-28",
+        "dau": 63,
+        "returningAddresses": 60,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-04-29",
+        "dau": 43,
+        "returningAddresses": 38,
+        "newUsers": 5
+    },
+    {
+        "date": "2023-04-30",
+        "dau": 68,
+        "returningAddresses": 62,
+        "newUsers": 6
+    },
+    {
+        "date": "2023-05-01",
+        "dau": 73,
+        "returningAddresses": 64,
+        "newUsers": 9
+    },
+    {
+        "date": "2023-05-02",
+        "dau": 58,
+        "returningAddresses": 55,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-05-03",
+        "dau": 66,
+        "returningAddresses": 64,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-05-04",
+        "dau": 56,
+        "returningAddresses": 47,
+        "newUsers": 9
+    },
+    {
+        "date": "2023-05-05",
+        "dau": 61,
+        "returningAddresses": 60,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-05-06",
+        "dau": 58,
+        "returningAddresses": 58,
+        "newUsers": 0
+    },
+    {
+        "date": "2023-05-07",
+        "dau": 40,
+        "returningAddresses": 40,
+        "newUsers": 0
+    },
+    {
+        "date": "2023-05-08",
+        "dau": 83,
+        "returningAddresses": 80,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-05-09",
+        "dau": 62,
+        "returningAddresses": 60,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-05-10",
+        "dau": 71,
+        "returningAddresses": 70,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-05-11",
+        "dau": 74,
+        "returningAddresses": 73,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-05-12",
+        "dau": 58,
+        "returningAddresses": 56,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-05-13",
+        "dau": 41,
+        "returningAddresses": 37,
+        "newUsers": 4
+    },
+    {
+        "date": "2023-05-14",
+        "dau": 41,
+        "returningAddresses": 39,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-05-15",
+        "dau": 47,
+        "returningAddresses": 44,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-05-16",
+        "dau": 45,
+        "returningAddresses": 44,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-05-17",
+        "dau": 55,
+        "returningAddresses": 50,
+        "newUsers": 5
+    },
+    {
+        "date": "2023-05-18",
+        "dau": 54,
+        "returningAddresses": 51,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-05-19",
+        "dau": 72,
+        "returningAddresses": 46,
+        "newUsers": 26
+    },
+    {
+        "date": "2023-05-20",
+        "dau": 38,
+        "returningAddresses": 36,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-05-21",
+        "dau": 60,
+        "returningAddresses": 50,
+        "newUsers": 10
+    },
+    {
+        "date": "2023-05-22",
+        "dau": 49,
+        "returningAddresses": 48,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-05-23",
+        "dau": 53,
+        "returningAddresses": 51,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-05-24",
+        "dau": 62,
+        "returningAddresses": 61,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-05-25",
+        "dau": 54,
+        "returningAddresses": 50,
+        "newUsers": 4
+    },
+    {
+        "date": "2023-05-26",
+        "dau": 47,
+        "returningAddresses": 46,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-05-27",
+        "dau": 43,
+        "returningAddresses": 41,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-05-28",
+        "dau": 59,
+        "returningAddresses": 57,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-05-29",
+        "dau": 64,
+        "returningAddresses": 60,
+        "newUsers": 4
+    },
+    {
+        "date": "2023-05-30",
+        "dau": 45,
+        "returningAddresses": 45,
+        "newUsers": 0
+    },
+    {
+        "date": "2023-05-31",
+        "dau": 59,
+        "returningAddresses": 55,
+        "newUsers": 4
+    },
+    {
+        "date": "2023-06-01",
+        "dau": 55,
+        "returningAddresses": 54,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-06-02",
+        "dau": 55,
+        "returningAddresses": 54,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-06-03",
+        "dau": 43,
+        "returningAddresses": 39,
+        "newUsers": 4
+    },
+    {
+        "date": "2023-06-04",
+        "dau": 34,
+        "returningAddresses": 33,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-06-05",
+        "dau": 66,
+        "returningAddresses": 65,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-06-06",
+        "dau": 64,
+        "returningAddresses": 62,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-06-07",
+        "dau": 58,
+        "returningAddresses": 56,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-06-08",
+        "dau": 49,
+        "returningAddresses": 49,
+        "newUsers": 0
+    },
+    {
+        "date": "2023-06-09",
+        "dau": 48,
+        "returningAddresses": 45,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-06-10",
+        "dau": 103,
+        "returningAddresses": 96,
+        "newUsers": 7
+    },
+    {
+        "date": "2023-06-11",
+        "dau": 58,
+        "returningAddresses": 57,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-06-12",
+        "dau": 51,
+        "returningAddresses": 48,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-06-13",
+        "dau": 59,
+        "returningAddresses": 57,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-06-14",
+        "dau": 73,
+        "returningAddresses": 66,
+        "newUsers": 7
+    },
+    {
+        "date": "2023-06-15",
+        "dau": 68,
+        "returningAddresses": 65,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-06-16",
+        "dau": 72,
+        "returningAddresses": 70,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-06-17",
+        "dau": 63,
+        "returningAddresses": 62,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-06-18",
+        "dau": 43,
+        "returningAddresses": 42,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-06-19",
+        "dau": 57,
+        "returningAddresses": 55,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-06-20",
+        "dau": 62,
+        "returningAddresses": 61,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-06-21",
+        "dau": 76,
+        "returningAddresses": 73,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-06-22",
+        "dau": 68,
+        "returningAddresses": 61,
+        "newUsers": 7
+    },
+    {
+        "date": "2023-06-23",
+        "dau": 65,
+        "returningAddresses": 63,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-06-24",
+        "dau": 49,
+        "returningAddresses": 45,
+        "newUsers": 4
+    },
+    {
+        "date": "2023-06-25",
+        "dau": 48,
+        "returningAddresses": 47,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-06-26",
+        "dau": 68,
+        "returningAddresses": 65,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-06-27",
+        "dau": 55,
+        "returningAddresses": 52,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-06-28",
+        "dau": 54,
+        "returningAddresses": 49,
+        "newUsers": 5
+    },
+    {
+        "date": "2023-06-29",
+        "dau": 54,
+        "returningAddresses": 49,
+        "newUsers": 5
+    },
+    {
+        "date": "2023-06-30",
+        "dau": 67,
+        "returningAddresses": 62,
+        "newUsers": 5
+    },
+    {
+        "date": "2023-07-01",
+        "dau": 62,
+        "returningAddresses": 57,
+        "newUsers": 5
+    },
+    {
+        "date": "2023-07-02",
+        "dau": 51,
+        "returningAddresses": 50,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-07-03",
+        "dau": 63,
+        "returningAddresses": 60,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-07-04",
+        "dau": 67,
+        "returningAddresses": 63,
+        "newUsers": 4
+    },
+    {
+        "date": "2023-07-05",
+        "dau": 62,
+        "returningAddresses": 60,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-07-06",
+        "dau": 67,
+        "returningAddresses": 67,
+        "newUsers": 0
+    },
+    {
+        "date": "2023-07-07",
+        "dau": 42,
+        "returningAddresses": 42,
+        "newUsers": 0
+    },
+    {
+        "date": "2023-07-08",
+        "dau": 36,
+        "returningAddresses": 36,
+        "newUsers": 0
+    },
+    {
+        "date": "2023-07-09",
+        "dau": 47,
+        "returningAddresses": 43,
+        "newUsers": 4
+    },
+    {
+        "date": "2023-07-10",
+        "dau": 53,
+        "returningAddresses": 52,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-07-11",
+        "dau": 41,
+        "returningAddresses": 39,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-07-12",
+        "dau": 50,
+        "returningAddresses": 49,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-07-13",
+        "dau": 73,
+        "returningAddresses": 72,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-07-14",
+        "dau": 87,
+        "returningAddresses": 81,
+        "newUsers": 6
+    },
+    {
+        "date": "2023-07-15",
+        "dau": 42,
+        "returningAddresses": 41,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-07-16",
+        "dau": 49,
+        "returningAddresses": 48,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-07-17",
+        "dau": 47,
+        "returningAddresses": 45,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-07-18",
+        "dau": 46,
+        "returningAddresses": 45,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-07-19",
+        "dau": 48,
+        "returningAddresses": 34,
+        "newUsers": 14
+    },
+    {
+        "date": "2023-07-20",
+        "dau": 46,
+        "returningAddresses": 40,
+        "newUsers": 6
+    },
+    {
+        "date": "2023-07-21",
+        "dau": 39,
+        "returningAddresses": 35,
+        "newUsers": 4
+    },
+    {
+        "date": "2023-07-22",
+        "dau": 46,
+        "returningAddresses": 44,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-07-23",
+        "dau": 41,
+        "returningAddresses": 34,
+        "newUsers": 7
+    },
+    {
+        "date": "2023-07-24",
+        "dau": 62,
+        "returningAddresses": 52,
+        "newUsers": 10
+    },
+    {
+        "date": "2023-07-25",
+        "dau": 48,
+        "returningAddresses": 45,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-07-26",
+        "dau": 47,
+        "returningAddresses": 40,
+        "newUsers": 7
+    },
+    {
+        "date": "2023-07-27",
+        "dau": 54,
+        "returningAddresses": 46,
+        "newUsers": 8
+    },
+    {
+        "date": "2023-07-28",
+        "dau": 33,
+        "returningAddresses": 31,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-07-29",
+        "dau": 32,
+        "returningAddresses": 31,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-07-30",
+        "dau": 53,
+        "returningAddresses": 50,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-07-31",
+        "dau": 32,
+        "returningAddresses": 31,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-08-01",
+        "dau": 58,
+        "returningAddresses": 55,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-08-02",
+        "dau": 60,
+        "returningAddresses": 59,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-08-03",
+        "dau": 53,
+        "returningAddresses": 42,
+        "newUsers": 11
+    },
+    {
+        "date": "2023-08-04",
+        "dau": 59,
+        "returningAddresses": 55,
+        "newUsers": 4
+    },
+    {
+        "date": "2023-08-05",
+        "dau": 43,
+        "returningAddresses": 41,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-08-06",
+        "dau": 29,
+        "returningAddresses": 29,
+        "newUsers": 0
+    },
+    {
+        "date": "2023-08-07",
+        "dau": 54,
+        "returningAddresses": 52,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-08-08",
+        "dau": 60,
+        "returningAddresses": 55,
+        "newUsers": 5
+    },
+    {
+        "date": "2023-08-09",
+        "dau": 46,
+        "returningAddresses": 42,
+        "newUsers": 4
+    },
+    {
+        "date": "2023-08-10",
+        "dau": 54,
+        "returningAddresses": 50,
+        "newUsers": 4
+    },
+    {
+        "date": "2023-08-11",
+        "dau": 39,
+        "returningAddresses": 37,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-08-12",
+        "dau": 34,
+        "returningAddresses": 32,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-08-13",
+        "dau": 32,
+        "returningAddresses": 28,
+        "newUsers": 4
+    },
+    {
+        "date": "2023-08-14",
+        "dau": 38,
+        "returningAddresses": 35,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-08-15",
+        "dau": 71,
+        "returningAddresses": 70,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-08-16",
+        "dau": 67,
+        "returningAddresses": 64,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-08-17",
+        "dau": 130,
+        "returningAddresses": 121,
+        "newUsers": 9
+    },
+    {
+        "date": "2023-08-18",
+        "dau": 68,
+        "returningAddresses": 65,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-08-19",
+        "dau": 52,
+        "returningAddresses": 49,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-08-20",
+        "dau": 51,
+        "returningAddresses": 50,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-08-21",
+        "dau": 53,
+        "returningAddresses": 50,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-08-22",
+        "dau": 69,
+        "returningAddresses": 63,
+        "newUsers": 6
+    },
+    {
+        "date": "2023-08-23",
+        "dau": 63,
+        "returningAddresses": 60,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-08-24",
+        "dau": 61,
+        "returningAddresses": 59,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-08-25",
+        "dau": 47,
+        "returningAddresses": 46,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-08-26",
+        "dau": 38,
+        "returningAddresses": 37,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-08-27",
+        "dau": 55,
+        "returningAddresses": 53,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-08-28",
+        "dau": 49,
+        "returningAddresses": 49,
+        "newUsers": 0
+    },
+    {
+        "date": "2023-08-29",
+        "dau": 68,
+        "returningAddresses": 67,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-08-30",
+        "dau": 58,
+        "returningAddresses": 56,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-08-31",
+        "dau": 67,
+        "returningAddresses": 66,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-09-01",
+        "dau": 51,
+        "returningAddresses": 49,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-09-02",
+        "dau": 52,
+        "returningAddresses": 51,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-09-03",
+        "dau": 49,
+        "returningAddresses": 47,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-09-04",
+        "dau": 44,
+        "returningAddresses": 43,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-09-05",
+        "dau": 58,
+        "returningAddresses": 55,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-09-06",
+        "dau": 54,
+        "returningAddresses": 54,
+        "newUsers": 0
+    },
+    {
+        "date": "2023-09-07",
+        "dau": 51,
+        "returningAddresses": 49,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-09-08",
+        "dau": 40,
+        "returningAddresses": 38,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-09-09",
+        "dau": 45,
+        "returningAddresses": 45,
+        "newUsers": 0
+    },
+    {
+        "date": "2023-09-10",
+        "dau": 59,
+        "returningAddresses": 59,
+        "newUsers": 0
+    },
+    {
+        "date": "2023-09-11",
+        "dau": 82,
+        "returningAddresses": 78,
+        "newUsers": 4
+    },
+    {
+        "date": "2023-09-12",
+        "dau": 62,
+        "returningAddresses": 61,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-09-13",
+        "dau": 56,
+        "returningAddresses": 56,
+        "newUsers": 0
+    },
+    {
+        "date": "2023-09-14",
+        "dau": 58,
+        "returningAddresses": 56,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-09-15",
+        "dau": 53,
+        "returningAddresses": 52,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-09-16",
+        "dau": 50,
+        "returningAddresses": 48,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-09-17",
+        "dau": 57,
+        "returningAddresses": 56,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-09-18",
+        "dau": 64,
+        "returningAddresses": 63,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-09-19",
+        "dau": 61,
+        "returningAddresses": 60,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-09-20",
+        "dau": 60,
+        "returningAddresses": 59,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-09-21",
+        "dau": 57,
+        "returningAddresses": 56,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-09-22",
+        "dau": 44,
+        "returningAddresses": 41,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-09-23",
+        "dau": 38,
+        "returningAddresses": 38,
+        "newUsers": 0
+    },
+    {
+        "date": "2023-09-24",
+        "dau": 48,
+        "returningAddresses": 48,
+        "newUsers": 0
+    },
+    {
+        "date": "2023-09-25",
+        "dau": 53,
+        "returningAddresses": 52,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-09-26",
+        "dau": 48,
+        "returningAddresses": 47,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-09-27",
+        "dau": 58,
+        "returningAddresses": 56,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-09-28",
+        "dau": 60,
+        "returningAddresses": 59,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-09-29",
+        "dau": 57,
+        "returningAddresses": 57,
+        "newUsers": 0
+    },
+    {
+        "date": "2023-09-30",
+        "dau": 50,
+        "returningAddresses": 45,
+        "newUsers": 5
+    },
+    {
+        "date": "2023-10-01",
+        "dau": 64,
+        "returningAddresses": 59,
+        "newUsers": 5
+    },
+    {
+        "date": "2023-10-02",
+        "dau": 92,
+        "returningAddresses": 89,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-10-03",
+        "dau": 65,
+        "returningAddresses": 64,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-10-04",
+        "dau": 60,
+        "returningAddresses": 59,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-10-05",
+        "dau": 58,
+        "returningAddresses": 58,
+        "newUsers": 0
+    },
+    {
+        "date": "2023-10-06",
+        "dau": 63,
+        "returningAddresses": 61,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-10-07",
+        "dau": 48,
+        "returningAddresses": 46,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-10-08",
+        "dau": 54,
+        "returningAddresses": 51,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-10-09",
+        "dau": 75,
+        "returningAddresses": 72,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-10-10",
+        "dau": 74,
+        "returningAddresses": 69,
+        "newUsers": 5
+    },
+    {
+        "date": "2023-10-11",
+        "dau": 64,
+        "returningAddresses": 64,
+        "newUsers": 0
+    },
+    {
+        "date": "2023-10-12",
+        "dau": 71,
+        "returningAddresses": 67,
+        "newUsers": 4
+    },
+    {
+        "date": "2023-10-13",
+        "dau": 67,
+        "returningAddresses": 63,
+        "newUsers": 4
+    },
+    {
+        "date": "2023-10-14",
+        "dau": 60,
+        "returningAddresses": 59,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-10-15",
+        "dau": 57,
+        "returningAddresses": 55,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-10-16",
+        "dau": 90,
+        "returningAddresses": 89,
+        "newUsers": 1
+    },
+    {
+        "date": "2023-10-17",
+        "dau": 81,
+        "returningAddresses": 78,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-10-18",
+        "dau": 98,
+        "returningAddresses": 84,
+        "newUsers": 14
+    },
+    {
+        "date": "2023-10-19",
+        "dau": 97,
+        "returningAddresses": 84,
+        "newUsers": 13
+    },
+    {
+        "date": "2023-10-20",
+        "dau": 91,
+        "returningAddresses": 83,
+        "newUsers": 8
+    },
+    {
+        "date": "2023-10-21",
+        "dau": 77,
+        "returningAddresses": 75,
+        "newUsers": 2
+    },
+    {
+        "date": "2023-10-22",
+        "dau": 73,
+        "returningAddresses": 67,
+        "newUsers": 6
+    },
+    {
+        "date": "2023-10-23",
+        "dau": 123,
+        "returningAddresses": 114,
+        "newUsers": 9
+    },
+    {
+        "date": "2023-10-24",
+        "dau": 114,
+        "returningAddresses": 108,
+        "newUsers": 6
+    },
+    {
+        "date": "2023-10-25",
+        "dau": 100,
+        "returningAddresses": 89,
+        "newUsers": 11
+    },
+    {
+        "date": "2023-10-26",
+        "dau": 98,
+        "returningAddresses": 82,
+        "newUsers": 16
+    },
+    {
+        "date": "2023-10-27",
+        "dau": 115,
+        "returningAddresses": 97,
+        "newUsers": 18
+    },
+    {
+        "date": "2023-10-28",
+        "dau": 85,
+        "returningAddresses": 77,
+        "newUsers": 8
+    },
+    {
+        "date": "2023-10-29",
+        "dau": 92,
+        "returningAddresses": 79,
+        "newUsers": 13
+    },
+    {
+        "date": "2023-10-30",
+        "dau": 129,
+        "returningAddresses": 104,
+        "newUsers": 25
+    },
+    {
+        "date": "2023-10-31",
+        "dau": 171,
+        "returningAddresses": 133,
+        "newUsers": 38
+    },
+    {
+        "date": "2023-11-01",
+        "dau": 128,
+        "returningAddresses": 119,
+        "newUsers": 9
+    },
+    {
+        "date": "2023-11-02",
+        "dau": 115,
+        "returningAddresses": 102,
+        "newUsers": 13
+    },
+    {
+        "date": "2023-11-03",
+        "dau": 108,
+        "returningAddresses": 94,
+        "newUsers": 14
+    },
+    {
+        "date": "2023-11-04",
+        "dau": 100,
+        "returningAddresses": 91,
+        "newUsers": 9
+    },
+    {
+        "date": "2023-11-05",
+        "dau": 123,
+        "returningAddresses": 100,
+        "newUsers": 23
+    },
+    {
+        "date": "2023-11-06",
+        "dau": 125,
+        "returningAddresses": 118,
+        "newUsers": 7
+    },
+    {
+        "date": "2023-11-07",
+        "dau": 95,
+        "returningAddresses": 88,
+        "newUsers": 7
+    },
+    {
+        "date": "2023-11-08",
+        "dau": 119,
+        "returningAddresses": 116,
+        "newUsers": 3
+    },
+    {
+        "date": "2023-11-09",
+        "dau": 133,
+        "returningAddresses": 129,
+        "newUsers": 4
+    },
+    {
+        "date": "2023-11-10",
+        "dau": 100,
+        "returningAddresses": 95,
+        "newUsers": 5
+    },
+    {
+        "date": "2023-11-11",
+        "dau": 91,
+        "returningAddresses": 87,
+        "newUsers": 4
+    },
+    {
+        "date": "2023-11-12",
+        "dau": 85,
+        "returningAddresses": 74,
+        "newUsers": 11
+    },
+    {
+        "date": "2023-11-13",
+        "dau": 119,
+        "returningAddresses": 108,
+        "newUsers": 11
+    },
+    {
+        "date": "2023-11-14",
+        "dau": 109,
+        "returningAddresses": 104,
+        "newUsers": 5
+    },
+    {
+        "date": "2023-11-15",
+        "dau": 115,
+        "returningAddresses": 92,
+        "newUsers": 23
+    },
+    {
+        "date": "2023-11-16",
+        "dau": 114,
+        "returningAddresses": 106,
+        "newUsers": 8
+    },
+    {
+        "date": "2023-11-17",
+        "dau": 107,
+        "returningAddresses": 100,
+        "newUsers": 7
+    },
+    {
+        "date": "2023-11-18",
+        "dau": 80,
+        "returningAddresses": 68,
+        "newUsers": 12
+    },
+    {
+        "date": "2023-11-19",
+        "dau": 141,
+        "returningAddresses": 108,
+        "newUsers": 33
+    },
+    {
+        "date": "2023-11-20",
+        "dau": 188,
+        "returningAddresses": 143,
+        "newUsers": 45
+    },
+    {
+        "date": "2023-11-21",
+        "dau": 173,
+        "returningAddresses": 141,
+        "newUsers": 32
+    },
+    {
+        "date": "2023-11-22",
+        "dau": 178,
+        "returningAddresses": 145,
+        "newUsers": 33
+    },
+    {
+        "date": "2023-11-23",
+        "dau": 129,
+        "returningAddresses": 110,
+        "newUsers": 19
+    },
+    {
+        "date": "2023-11-24",
+        "dau": 132,
+        "returningAddresses": 115,
+        "newUsers": 17
+    },
+    {
+        "date": "2023-11-25",
+        "dau": 154,
+        "returningAddresses": 117,
+        "newUsers": 37
+    },
+    {
+        "date": "2023-11-26",
+        "dau": 143,
+        "returningAddresses": 115,
+        "newUsers": 28
+    },
+    {
+        "date": "2023-11-27",
+        "dau": 171,
+        "returningAddresses": 115,
+        "newUsers": 56
+    },
+    {
+        "date": "2023-11-28",
+        "dau": 154,
+        "returningAddresses": 126,
+        "newUsers": 28
+    },
+    {
+        "date": "2023-11-29",
+        "dau": 113,
+        "returningAddresses": 96,
+        "newUsers": 17
+    },
+    {
+        "date": "2023-11-30",
+        "dau": 161,
+        "returningAddresses": 137,
+        "newUsers": 24
+    },
+    {
+        "date": "2023-12-01",
+        "dau": 125,
+        "returningAddresses": 112,
+        "newUsers": 13
+    },
+    {
+        "date": "2023-12-02",
+        "dau": 130,
+        "returningAddresses": 102,
+        "newUsers": 28
+    },
+    {
+        "date": "2023-12-03",
+        "dau": 122,
+        "returningAddresses": 102,
+        "newUsers": 20
+    },
+    {
+        "date": "2023-12-04",
+        "dau": 180,
+        "returningAddresses": 164,
+        "newUsers": 16
+    },
+    {
+        "date": "2023-12-05",
+        "dau": 144,
+        "returningAddresses": 122,
+        "newUsers": 22
+    },
+    {
+        "date": "2023-12-06",
+        "dau": 129,
+        "returningAddresses": 119,
+        "newUsers": 10
+    },
+    {
+        "date": "2023-12-07",
+        "dau": 135,
+        "returningAddresses": 107,
+        "newUsers": 28
+    },
+    {
+        "date": "2023-12-08",
+        "dau": 167,
+        "returningAddresses": 126,
+        "newUsers": 41
+    },
+    {
+        "date": "2023-12-09",
+        "dau": 205,
+        "returningAddresses": 114,
+        "newUsers": 91
+    },
+    {
+        "date": "2023-12-10",
+        "dau": 325,
+        "returningAddresses": 129,
+        "newUsers": 196
+    },
+    {
+        "date": "2023-12-11",
+        "dau": 475,
+        "returningAddresses": 253,
+        "newUsers": 222
+    },
+    {
+        "date": "2023-12-12",
+        "dau": 481,
+        "returningAddresses": 255,
+        "newUsers": 226
+    },
+    {
+        "date": "2023-12-13",
+        "dau": 441,
+        "returningAddresses": 226,
+        "newUsers": 215
+    },
+    {
+        "date": "2023-12-14",
+        "dau": 500,
+        "returningAddresses": 288,
+        "newUsers": 212
+    },
+    {
+        "date": "2023-12-15",
+        "dau": 359,
+        "returningAddresses": 227,
+        "newUsers": 132
+    },
+    {
+        "date": "2023-12-16",
+        "dau": 297,
+        "returningAddresses": 195,
+        "newUsers": 102
+    },
+    {
+        "date": "2023-12-17",
+        "dau": 262,
+        "returningAddresses": 157,
+        "newUsers": 105
+    },
+    {
+        "date": "2023-12-18",
+        "dau": 434,
+        "returningAddresses": 281,
+        "newUsers": 153
+    },
+    {
+        "date": "2023-12-19",
+        "dau": 400,
+        "returningAddresses": 268,
+        "newUsers": 132
+    },
+    {
+        "date": "2023-12-20",
+        "dau": 393,
+        "returningAddresses": 267,
+        "newUsers": 126
+    },
+    {
+        "date": "2023-12-21",
+        "dau": 394,
+        "returningAddresses": 233,
+        "newUsers": 161
+    },
+    {
+        "date": "2023-12-22",
+        "dau": 364,
+        "returningAddresses": 238,
+        "newUsers": 126
+    },
+    {
+        "date": "2023-12-23",
+        "dau": 350,
+        "returningAddresses": 229,
+        "newUsers": 121
+    },
+    {
+        "date": "2023-12-24",
+        "dau": 290,
+        "returningAddresses": 209,
+        "newUsers": 81
+    },
+    {
+        "date": "2023-12-25",
+        "dau": 246,
+        "returningAddresses": 180,
+        "newUsers": 66
+    },
+    {
+        "date": "2023-12-26",
+        "dau": 373,
+        "returningAddresses": 274,
+        "newUsers": 99
+    },
+    {
+        "date": "2023-12-27",
+        "dau": 250,
+        "returningAddresses": 182,
+        "newUsers": 68
+    },
+    {
+        "date": "2023-12-28",
+        "dau": 312,
+        "returningAddresses": 248,
+        "newUsers": 64
+    },
+    {
+        "date": "2023-12-29",
+        "dau": 292,
+        "returningAddresses": 213,
+        "newUsers": 79
+    },
+    {
+        "date": "2023-12-30",
+        "dau": 225,
+        "returningAddresses": 151,
+        "newUsers": 74
+    },
+    {
+        "date": "2023-12-31",
+        "dau": 202,
+        "returningAddresses": 140,
+        "newUsers": 62
+    },
+    {
+        "date": "2024-01-01",
+        "dau": 242,
+        "returningAddresses": 186,
+        "newUsers": 56
+    },
+    {
+        "date": "2024-01-02",
+        "dau": 332,
+        "returningAddresses": 253,
+        "newUsers": 79
+    },
+    {
+        "date": "2024-01-03",
+        "dau": 509,
+        "returningAddresses": 443,
+        "newUsers": 66
+    },
+    {
+        "date": "2024-01-04",
+        "dau": 281,
+        "returningAddresses": 214,
+        "newUsers": 67
+    },
+    {
+        "date": "2024-01-05",
+        "dau": 237,
+        "returningAddresses": 190,
+        "newUsers": 47
+    },
+    {
+        "date": "2024-01-06",
+        "dau": 286,
+        "returningAddresses": 219,
+        "newUsers": 67
+    },
+    {
+        "date": "2024-01-07",
+        "dau": 279,
+        "returningAddresses": 223,
+        "newUsers": 56
+    },
+    {
+        "date": "2024-01-08",
+        "dau": 365,
+        "returningAddresses": 300,
+        "newUsers": 65
+    },
+    {
+        "date": "2024-01-09",
+        "dau": 349,
+        "returningAddresses": 296,
+        "newUsers": 53
+    },
+    {
+        "date": "2024-01-10",
+        "dau": 352,
+        "returningAddresses": 292,
+        "newUsers": 60
+    },
+    {
+        "date": "2024-01-11",
+        "dau": 308,
+        "returningAddresses": 258,
+        "newUsers": 50
+    },
+    {
+        "date": "2024-01-12",
+        "dau": 306,
+        "returningAddresses": 250,
+        "newUsers": 56
+    },
+    {
+        "date": "2024-01-13",
+        "dau": 257,
+        "returningAddresses": 206,
+        "newUsers": 51
+    },
+    {
+        "date": "2024-01-14",
+        "dau": 206,
+        "returningAddresses": 173,
+        "newUsers": 33
+    },
+    {
+        "date": "2024-01-15",
+        "dau": 223,
+        "returningAddresses": 187,
+        "newUsers": 36
+    },
+    {
+        "date": "2024-01-16",
+        "dau": 274,
+        "returningAddresses": 183,
+        "newUsers": 91
+    },
+    {
+        "date": "2024-01-17",
+        "dau": 267,
+        "returningAddresses": 189,
+        "newUsers": 78
+    },
+    {
+        "date": "2024-01-18",
+        "dau": 327,
+        "returningAddresses": 251,
+        "newUsers": 76
+    },
+    {
+        "date": "2024-01-19",
+        "dau": 335,
+        "returningAddresses": 244,
+        "newUsers": 91
+    },
+    {
+        "date": "2024-01-20",
+        "dau": 198,
+        "returningAddresses": 154,
+        "newUsers": 44
+    },
+    {
+        "date": "2024-01-21",
+        "dau": 203,
+        "returningAddresses": 156,
+        "newUsers": 47
+    },
+    {
+        "date": "2024-01-22",
+        "dau": 379,
+        "returningAddresses": 286,
+        "newUsers": 93
+    },
+    {
+        "date": "2024-01-23",
+        "dau": 394,
+        "returningAddresses": 345,
+        "newUsers": 49
+    },
+    {
+        "date": "2024-01-24",
+        "dau": 228,
+        "returningAddresses": 185,
+        "newUsers": 43
+    },
+    {
+        "date": "2024-01-25",
+        "dau": 208,
+        "returningAddresses": 162,
+        "newUsers": 46
+    },
+    {
+        "date": "2024-01-26",
+        "dau": 229,
+        "returningAddresses": 193,
+        "newUsers": 36
+    },
+    {
+        "date": "2024-01-27",
+        "dau": 210,
+        "returningAddresses": 174,
+        "newUsers": 36
+    },
+    {
+        "date": "2024-01-28",
+        "dau": 246,
+        "returningAddresses": 181,
+        "newUsers": 65
+    },
+    {
+        "date": "2024-01-29",
+        "dau": 282,
+        "returningAddresses": 215,
+        "newUsers": 67
+    },
+    {
+        "date": "2024-01-30",
+        "dau": 307,
+        "returningAddresses": 231,
+        "newUsers": 76
+    },
+    {
+        "date": "2024-01-31",
+        "dau": 366,
+        "returningAddresses": 278,
+        "newUsers": 88
+    },
+    {
+        "date": "2024-02-01",
+        "dau": 230,
+        "returningAddresses": 201,
+        "newUsers": 29
+    },
+    {
+        "date": "2024-02-02",
+        "dau": 221,
+        "returningAddresses": 175,
+        "newUsers": 46
+    },
+    {
+        "date": "2024-02-03",
+        "dau": 220,
+        "returningAddresses": 184,
+        "newUsers": 36
+    },
+    {
+        "date": "2024-02-04",
+        "dau": 191,
+        "returningAddresses": 165,
+        "newUsers": 26
+    },
+    {
+        "date": "2024-02-05",
+        "dau": 215,
+        "returningAddresses": 187,
+        "newUsers": 28
+    },
+    {
+        "date": "2024-02-06",
+        "dau": 234,
+        "returningAddresses": 201,
+        "newUsers": 33
+    },
+    {
+        "date": "2024-02-07",
+        "dau": 315,
+        "returningAddresses": 238,
+        "newUsers": 77
+    },
+    {
+        "date": "2024-02-08",
+        "dau": 279,
+        "returningAddresses": 243,
+        "newUsers": 36
+    },
+    {
+        "date": "2024-02-09",
+        "dau": 336,
+        "returningAddresses": 285,
+        "newUsers": 51
+    },
+    {
+        "date": "2024-02-10",
+        "dau": 215,
+        "returningAddresses": 159,
+        "newUsers": 56
+    },
+    {
+        "date": "2024-02-11",
+        "dau": 396,
+        "returningAddresses": 169,
+        "newUsers": 227
+    },
+    {
+        "date": "2024-02-12",
+        "dau": 252,
+        "returningAddresses": 223,
+        "newUsers": 29
+    },
+    {
+        "date": "2024-02-13",
+        "dau": 253,
+        "returningAddresses": 227,
+        "newUsers": 26
+    },
+    {
+        "date": "2024-02-14",
+        "dau": 291,
+        "returningAddresses": 234,
+        "newUsers": 57
+    },
+    {
+        "date": "2024-02-15",
+        "dau": 290,
+        "returningAddresses": 247,
+        "newUsers": 43
+    },
+    {
+        "date": "2024-02-16",
+        "dau": 243,
+        "returningAddresses": 204,
+        "newUsers": 39
+    },
+    {
+        "date": "2024-02-17",
+        "dau": 409,
+        "returningAddresses": 366,
+        "newUsers": 43
+    },
+    {
+        "date": "2024-02-18",
+        "dau": 382,
+        "returningAddresses": 346,
+        "newUsers": 36
+    },
+    {
+        "date": "2024-02-19",
+        "dau": 244,
+        "returningAddresses": 223,
+        "newUsers": 21
+    },
+    {
+        "date": "2024-02-20",
+        "dau": 263,
+        "returningAddresses": 243,
+        "newUsers": 20
+    },
+    {
+        "date": "2024-02-21",
+        "dau": 393,
+        "returningAddresses": 380,
+        "newUsers": 13
+    },
+    {
+        "date": "2024-02-22",
+        "dau": 156,
+        "returningAddresses": 141,
+        "newUsers": 15
+    },
+    {
+        "date": "2024-02-23",
+        "dau": 192,
+        "returningAddresses": 175,
+        "newUsers": 17
+    },
+    {
+        "date": "2024-02-24",
+        "dau": 156,
+        "returningAddresses": 147,
+        "newUsers": 9
+    },
+    {
+        "date": "2024-02-25",
+        "dau": 143,
+        "returningAddresses": 133,
+        "newUsers": 10
+    },
+    {
+        "date": "2024-02-26",
+        "dau": 201,
+        "returningAddresses": 179,
+        "newUsers": 22
+    },
+    {
+        "date": "2024-02-27",
+        "dau": 240,
+        "returningAddresses": 222,
+        "newUsers": 18
+    },
+    {
+        "date": "2024-02-28",
+        "dau": 247,
+        "returningAddresses": 231,
+        "newUsers": 16
+    },
+    {
+        "date": "2024-02-29",
+        "dau": 199,
+        "returningAddresses": 184,
+        "newUsers": 15
+    },
+    {
+        "date": "2024-03-01",
+        "dau": 153,
+        "returningAddresses": 141,
+        "newUsers": 12
+    },
+    {
+        "date": "2024-03-02",
+        "dau": 161,
+        "returningAddresses": 152,
+        "newUsers": 9
+    },
+    {
+        "date": "2024-03-03",
+        "dau": 153,
+        "returningAddresses": 147,
+        "newUsers": 6
+    },
+    {
+        "date": "2024-03-04",
+        "dau": 193,
+        "returningAddresses": 185,
+        "newUsers": 8
+    },
+    {
+        "date": "2024-03-05",
+        "dau": 254,
+        "returningAddresses": 238,
+        "newUsers": 16
+    },
+    {
+        "date": "2024-03-06",
+        "dau": 167,
+        "returningAddresses": 162,
+        "newUsers": 5
+    },
+    {
+        "date": "2024-03-07",
+        "dau": 181,
+        "returningAddresses": 170,
+        "newUsers": 11
+    },
+    {
+        "date": "2024-03-08",
+        "dau": 138,
+        "returningAddresses": 129,
+        "newUsers": 9
+    },
+    {
+        "date": "2024-03-09",
+        "dau": 123,
+        "returningAddresses": 116,
+        "newUsers": 7
+    },
+    {
+        "date": "2024-03-10",
+        "dau": 118,
+        "returningAddresses": 114,
+        "newUsers": 4
+    },
+    {
+        "date": "2024-03-11",
+        "dau": 163,
+        "returningAddresses": 149,
+        "newUsers": 14
+    },
+    {
+        "date": "2024-03-12",
+        "dau": 189,
+        "returningAddresses": 181,
+        "newUsers": 8
+    },
+    {
+        "date": "2024-03-13",
+        "dau": 144,
+        "returningAddresses": 139,
+        "newUsers": 5
+    },
+    {
+        "date": "2024-03-14",
+        "dau": 166,
+        "returningAddresses": 153,
+        "newUsers": 13
+    },
+    {
+        "date": "2024-03-15",
+        "dau": 183,
+        "returningAddresses": 176,
+        "newUsers": 7
+    },
+    {
+        "date": "2024-03-16",
+        "dau": 160,
+        "returningAddresses": 154,
+        "newUsers": 6
+    },
+    {
+        "date": "2024-03-17",
+        "dau": 154,
+        "returningAddresses": 138,
+        "newUsers": 16
+    },
+    {
+        "date": "2024-03-18",
+        "dau": 143,
+        "returningAddresses": 134,
+        "newUsers": 9
+    },
+    {
+        "date": "2024-03-19",
+        "dau": 195,
+        "returningAddresses": 178,
+        "newUsers": 17
+    },
+    {
+        "date": "2024-03-20",
+        "dau": 203,
+        "returningAddresses": 178,
+        "newUsers": 25
+    },
+    {
+        "date": "2024-03-21",
+        "dau": 208,
+        "returningAddresses": 182,
+        "newUsers": 26
+    },
+    {
+        "date": "2024-03-22",
+        "dau": 235,
+        "returningAddresses": 211,
+        "newUsers": 24
+    },
+    {
+        "date": "2024-03-23",
+        "dau": 199,
+        "returningAddresses": 156,
+        "newUsers": 43
+    },
+    {
+        "date": "2024-03-24",
+        "dau": 202,
+        "returningAddresses": 162,
+        "newUsers": 40
+    },
+    {
+        "date": "2024-03-25",
+        "dau": 550,
+        "returningAddresses": 176,
+        "newUsers": 374
+    },
+    {
+        "date": "2024-03-26",
+        "dau": 261,
+        "returningAddresses": 174,
+        "newUsers": 87
+    },
+    {
+        "date": "2024-03-27",
+        "dau": 237,
+        "returningAddresses": 139,
+        "newUsers": 98
+    },
+    {
+        "date": "2024-03-28",
+        "dau": 217,
+        "returningAddresses": 145,
+        "newUsers": 72
+    },
+    {
+        "date": "2024-03-29",
+        "dau": 161,
+        "returningAddresses": 125,
+        "newUsers": 36
+    },
+    {
+        "date": "2024-03-30",
+        "dau": 144,
+        "returningAddresses": 99,
+        "newUsers": 45
+    },
+    {
+        "date": "2024-03-31",
+        "dau": 108,
+        "returningAddresses": 92,
+        "newUsers": 16
+    },
+    {
+        "date": "2024-04-01",
+        "dau": 246,
+        "returningAddresses": 212,
+        "newUsers": 34
+    },
+    {
+        "date": "2024-04-02",
+        "dau": 276,
+        "returningAddresses": 260,
+        "newUsers": 16
+    },
+    {
+        "date": "2024-04-03",
+        "dau": 165,
+        "returningAddresses": 151,
+        "newUsers": 14
+    },
+    {
+        "date": "2024-04-04",
+        "dau": 154,
+        "returningAddresses": 146,
+        "newUsers": 8
+    },
+    {
+        "date": "2024-04-05",
+        "dau": 220,
+        "returningAddresses": 182,
+        "newUsers": 38
+    },
+    {
+        "date": "2024-04-06",
+        "dau": 169,
+        "returningAddresses": 163,
+        "newUsers": 6
+    },
+    {
+        "date": "2024-04-07",
+        "dau": 171,
+        "returningAddresses": 135,
+        "newUsers": 36
+    },
+    {
+        "date": "2024-04-08",
+        "dau": 186,
+        "returningAddresses": 142,
+        "newUsers": 44
+    },
+    {
+        "date": "2024-04-09",
+        "dau": 194,
+        "returningAddresses": 159,
+        "newUsers": 35
+    },
+    {
+        "date": "2024-04-10",
+        "dau": 199,
+        "returningAddresses": 178,
+        "newUsers": 21
+    },
+    {
+        "date": "2024-04-11",
+        "dau": 190,
+        "returningAddresses": 131,
+        "newUsers": 59
+    },
+    {
+        "date": "2024-04-12",
+        "dau": 477,
+        "returningAddresses": 449,
+        "newUsers": 28
+    },
+    {
+        "date": "2024-04-13",
+        "dau": 423,
+        "returningAddresses": 385,
+        "newUsers": 38
+    },
+    {
+        "date": "2024-04-14",
+        "dau": 149,
+        "returningAddresses": 139,
+        "newUsers": 10
+    },
+    {
+        "date": "2024-04-15",
+        "dau": 155,
+        "returningAddresses": 139,
+        "newUsers": 16
+    },
+    {
+        "date": "2024-04-16",
+        "dau": 175,
+        "returningAddresses": 127,
+        "newUsers": 48
+    },
+    {
+        "date": "2024-04-17",
+        "dau": 178,
+        "returningAddresses": 152,
+        "newUsers": 26
+    },
+    {
+        "date": "2024-04-18",
+        "dau": 184,
+        "returningAddresses": 154,
+        "newUsers": 30
+    },
+    {
+        "date": "2024-04-19",
+        "dau": 167,
+        "returningAddresses": 149,
+        "newUsers": 18
+    },
+    {
+        "date": "2024-04-20",
+        "dau": 133,
+        "returningAddresses": 123,
+        "newUsers": 10
+    },
+    {
+        "date": "2024-04-21",
+        "dau": 136,
+        "returningAddresses": 123,
+        "newUsers": 13
+    },
+    {
+        "date": "2024-04-22",
+        "dau": 190,
+        "returningAddresses": 149,
+        "newUsers": 41
+    },
+    {
+        "date": "2024-04-23",
+        "dau": 184,
+        "returningAddresses": 122,
+        "newUsers": 62
+    },
+    {
+        "date": "2024-04-24",
+        "dau": 185,
+        "returningAddresses": 128,
+        "newUsers": 57
+    },
+    {
+        "date": "2024-04-25",
+        "dau": 167,
+        "returningAddresses": 121,
+        "newUsers": 46
+    },
+    {
+        "date": "2024-04-26",
+        "dau": 141,
+        "returningAddresses": 110,
+        "newUsers": 31
+    },
+    {
+        "date": "2024-04-27",
+        "dau": 128,
+        "returningAddresses": 114,
+        "newUsers": 14
+    },
+    {
+        "date": "2024-04-28",
+        "dau": 121,
+        "returningAddresses": 92,
+        "newUsers": 29
+    },
+    {
+        "date": "2024-04-29",
+        "dau": 134,
+        "returningAddresses": 91,
+        "newUsers": 43
+    },
+    {
+        "date": "2024-04-30",
+        "dau": 138,
+        "returningAddresses": 133,
+        "newUsers": 5
+    },
+    {
+        "date": "2024-05-01",
+        "dau": 140,
+        "returningAddresses": 129,
+        "newUsers": 11
+    },
+    {
+        "date": "2024-05-02",
+        "dau": 111,
+        "returningAddresses": 99,
+        "newUsers": 12
+    },
+    {
+        "date": "2024-05-03",
+        "dau": 117,
+        "returningAddresses": 111,
+        "newUsers": 6
+    },
+    {
+        "date": "2024-05-04",
+        "dau": 117,
+        "returningAddresses": 108,
+        "newUsers": 9
+    },
+    {
+        "date": "2024-05-05",
+        "dau": 105,
+        "returningAddresses": 98,
+        "newUsers": 7
+    },
+    {
+        "date": "2024-05-06",
+        "dau": 132,
+        "returningAddresses": 125,
+        "newUsers": 7
+    },
+    {
+        "date": "2024-05-07",
+        "dau": 111,
+        "returningAddresses": 109,
+        "newUsers": 2
+    },
+    {
+        "date": "2024-05-08",
+        "dau": 131,
+        "returningAddresses": 123,
+        "newUsers": 8
+    },
+    {
+        "date": "2024-05-09",
+        "dau": 100,
+        "returningAddresses": 93,
+        "newUsers": 7
+    },
+    {
+        "date": "2024-05-10",
+        "dau": 137,
+        "returningAddresses": 125,
+        "newUsers": 12
+    },
+    {
+        "date": "2024-05-11",
+        "dau": 87,
+        "returningAddresses": 85,
+        "newUsers": 2
+    },
+    {
+        "date": "2024-05-12",
+        "dau": 99,
+        "returningAddresses": 72,
+        "newUsers": 27
+    },
+    {
+        "date": "2024-05-13",
+        "dau": 117,
+        "returningAddresses": 113,
+        "newUsers": 4
+    },
+    {
+        "date": "2024-05-14",
+        "dau": 121,
+        "returningAddresses": 99,
+        "newUsers": 22
+    },
+    {
+        "date": "2024-05-15",
+        "dau": 126,
+        "returningAddresses": 120,
+        "newUsers": 6
+    },
+    {
+        "date": "2024-05-16",
+        "dau": 119,
+        "returningAddresses": 116,
+        "newUsers": 3
+    },
+    {
+        "date": "2024-05-17",
+        "dau": 109,
+        "returningAddresses": 107,
+        "newUsers": 2
+    },
+    {
+        "date": "2024-05-18",
+        "dau": 84,
+        "returningAddresses": 74,
+        "newUsers": 10
+    },
+    {
+        "date": "2024-05-19",
+        "dau": 107,
+        "returningAddresses": 94,
+        "newUsers": 13
+    },
+    {
+        "date": "2024-05-20",
+        "dau": 171,
+        "returningAddresses": 162,
+        "newUsers": 9
+    },
+    {
+        "date": "2024-05-21",
+        "dau": 152,
+        "returningAddresses": 151,
+        "newUsers": 1
+    },
+    {
+        "date": "2024-05-22",
+        "dau": 177,
+        "returningAddresses": 171,
+        "newUsers": 6
+    },
+    {
+        "date": "2024-05-23",
+        "dau": 251,
+        "returningAddresses": 245,
+        "newUsers": 6
+    },
+    {
+        "date": "2024-05-24",
+        "dau": 203,
+        "returningAddresses": 199,
+        "newUsers": 4
+    },
+    {
+        "date": "2024-05-25",
+        "dau": 112,
+        "returningAddresses": 107,
+        "newUsers": 5
+    },
+    {
+        "date": "2024-05-26",
+        "dau": 119,
+        "returningAddresses": 117,
+        "newUsers": 2
+    },
+    {
+        "date": "2024-05-27",
+        "dau": 153,
+        "returningAddresses": 143,
+        "newUsers": 10
+    },
+    {
+        "date": "2024-05-28",
+        "dau": 183,
+        "returningAddresses": 177,
+        "newUsers": 6
+    },
+    {
+        "date": "2024-05-29",
+        "dau": 168,
+        "returningAddresses": 166,
+        "newUsers": 2
+    },
+    {
+        "date": "2024-05-30",
+        "dau": 178,
+        "returningAddresses": 163,
+        "newUsers": 15
+    },
+    {
+        "date": "2024-05-31",
+        "dau": 124,
+        "returningAddresses": 117,
+        "newUsers": 7
+    },
+    {
+        "date": "2024-06-01",
+        "dau": 79,
+        "returningAddresses": 70,
+        "newUsers": 9
+    },
+    {
+        "date": "2024-06-02",
+        "dau": 107,
+        "returningAddresses": 102,
+        "newUsers": 5
+    },
+    {
+        "date": "2024-06-03",
+        "dau": 146,
+        "returningAddresses": 137,
+        "newUsers": 9
+    },
+    {
+        "date": "2024-06-04",
+        "dau": 128,
+        "returningAddresses": 114,
+        "newUsers": 14
+    },
+    {
+        "date": "2024-06-05",
+        "dau": 124,
+        "returningAddresses": 122,
+        "newUsers": 2
+    },
+    {
+        "date": "2024-06-06",
+        "dau": 169,
+        "returningAddresses": 162,
+        "newUsers": 7
+    },
+    {
+        "date": "2024-06-07",
+        "dau": 189,
+        "returningAddresses": 182,
+        "newUsers": 7
+    },
+    {
+        "date": "2024-06-08",
+        "dau": 127,
+        "returningAddresses": 109,
+        "newUsers": 18
+    },
+    {
+        "date": "2024-06-09",
+        "dau": 111,
+        "returningAddresses": 109,
+        "newUsers": 2
+    },
+    {
+        "date": "2024-06-10",
+        "dau": 120,
+        "returningAddresses": 117,
+        "newUsers": 3
+    },
+    {
+        "date": "2024-06-11",
+        "dau": 170,
+        "returningAddresses": 162,
+        "newUsers": 8
+    },
+    {
+        "date": "2024-06-12",
+        "dau": 178,
+        "returningAddresses": 166,
+        "newUsers": 12
+    },
+    {
+        "date": "2024-06-13",
+        "dau": 153,
+        "returningAddresses": 139,
+        "newUsers": 14
+    },
+    {
+        "date": "2024-06-14",
+        "dau": 177,
+        "returningAddresses": 171,
+        "newUsers": 6
+    },
+    {
+        "date": "2024-06-15",
+        "dau": 139,
+        "returningAddresses": 130,
+        "newUsers": 9
+    },
+    {
+        "date": "2024-06-16",
+        "dau": 134,
+        "returningAddresses": 123,
+        "newUsers": 11
+    },
+    {
+        "date": "2024-06-17",
+        "dau": 237,
+        "returningAddresses": 234,
+        "newUsers": 3
+    },
+    {
+        "date": "2024-06-18",
+        "dau": 251,
+        "returningAddresses": 245,
+        "newUsers": 6
+    },
+    {
+        "date": "2024-06-19",
+        "dau": 111,
+        "returningAddresses": 107,
+        "newUsers": 4
+    },
+    {
+        "date": "2024-06-20",
+        "dau": 145,
+        "returningAddresses": 131,
+        "newUsers": 14
+    },
+    {
+        "date": "2024-06-21",
+        "dau": 107,
+        "returningAddresses": 94,
+        "newUsers": 13
+    },
+    {
+        "date": "2024-06-22",
+        "dau": 90,
+        "returningAddresses": 84,
+        "newUsers": 6
+    },
+    {
+        "date": "2024-06-23",
+        "dau": 100,
+        "returningAddresses": 94,
+        "newUsers": 6
+    },
+    {
+        "date": "2024-06-24",
+        "dau": 175,
+        "returningAddresses": 170,
+        "newUsers": 5
+    },
+    {
+        "date": "2024-06-25",
+        "dau": 117,
+        "returningAddresses": 114,
+        "newUsers": 3
+    },
+    {
+        "date": "2024-06-26",
+        "dau": 114,
+        "returningAddresses": 106,
+        "newUsers": 8
+    },
+    {
+        "date": "2024-06-27",
+        "dau": 125,
+        "returningAddresses": 121,
+        "newUsers": 4
+    },
+    {
+        "date": "2024-06-28",
+        "dau": 92,
+        "returningAddresses": 91,
+        "newUsers": 1
+    },
+    {
+        "date": "2024-06-29",
+        "dau": 73,
+        "returningAddresses": 69,
+        "newUsers": 4
+    },
+    {
+        "date": "2024-06-30",
+        "dau": 89,
+        "returningAddresses": 85,
+        "newUsers": 4
+    },
+    {
+        "date": "2024-07-01",
+        "dau": 117,
+        "returningAddresses": 115,
+        "newUsers": 2
+    },
+    {
+        "date": "2024-07-02",
+        "dau": 86,
+        "returningAddresses": 86,
+        "newUsers": 0
+    },
+    {
+        "date": "2024-07-03",
+        "dau": 121,
+        "returningAddresses": 116,
+        "newUsers": 5
+    },
+    {
+        "date": "2024-07-04",
+        "dau": 157,
+        "returningAddresses": 150,
+        "newUsers": 7
+    },
+    {
+        "date": "2024-07-05",
+        "dau": 215,
+        "returningAddresses": 205,
+        "newUsers": 10
+    },
+    {
+        "date": "2024-07-06",
+        "dau": 107,
+        "returningAddresses": 103,
+        "newUsers": 4
+    },
+    {
+        "date": "2024-07-07",
+        "dau": 109,
+        "returningAddresses": 107,
+        "newUsers": 2
+    },
+    {
+        "date": "2024-07-08",
+        "dau": 145,
+        "returningAddresses": 139,
+        "newUsers": 6
+    },
+    {
+        "date": "2024-07-09",
+        "dau": 134,
+        "returningAddresses": 126,
+        "newUsers": 8
+    },
+    {
+        "date": "2024-07-10",
+        "dau": 130,
+        "returningAddresses": 127,
+        "newUsers": 3
+    },
+    {
+        "date": "2024-07-11",
+        "dau": 137,
+        "returningAddresses": 137,
+        "newUsers": 0
+    },
+    {
+        "date": "2024-07-12",
+        "dau": 106,
+        "returningAddresses": 100,
+        "newUsers": 6
+    },
+    {
+        "date": "2024-07-13",
+        "dau": 87,
+        "returningAddresses": 87,
+        "newUsers": 0
+    },
+    {
+        "date": "2024-07-14",
+        "dau": 108,
+        "returningAddresses": 108,
+        "newUsers": 0
+    },
+    {
+        "date": "2024-07-15",
+        "dau": 126,
+        "returningAddresses": 122,
+        "newUsers": 4
+    },
+    {
+        "date": "2024-07-16",
+        "dau": 112,
+        "returningAddresses": 110,
+        "newUsers": 2
+    },
+    {
+        "date": "2024-07-17",
+        "dau": 130,
+        "returningAddresses": 126,
+        "newUsers": 4
+    },
+    {
+        "date": "2024-07-18",
+        "dau": 136,
+        "returningAddresses": 134,
+        "newUsers": 2
+    },
+    {
+        "date": "2024-07-19",
+        "dau": 120,
+        "returningAddresses": 114,
+        "newUsers": 6
+    },
+    {
+        "date": "2024-07-20",
+        "dau": 105,
+        "returningAddresses": 87,
+        "newUsers": 18
+    },
+    {
+        "date": "2024-07-21",
+        "dau": 114,
+        "returningAddresses": 97,
+        "newUsers": 17
+    },
+    {
+        "date": "2024-07-22",
+        "dau": 106,
+        "returningAddresses": 104,
+        "newUsers": 2
+    },
+    {
+        "date": "2024-07-23",
+        "dau": 111,
+        "returningAddresses": 107,
+        "newUsers": 4
+    },
+    {
+        "date": "2024-07-24",
+        "dau": 102,
+        "returningAddresses": 97,
+        "newUsers": 5
+    },
+    {
+        "date": "2024-07-25",
+        "dau": 124,
+        "returningAddresses": 120,
+        "newUsers": 4
+    },
+    {
+        "date": "2024-07-26",
+        "dau": 108,
+        "returningAddresses": 108,
+        "newUsers": 0
+    },
+    {
+        "date": "2024-07-27",
+        "dau": 108,
+        "returningAddresses": 106,
+        "newUsers": 2
+    },
+    {
+        "date": "2024-07-28",
+        "dau": 87,
+        "returningAddresses": 84,
+        "newUsers": 3
+    },
+    {
+        "date": "2024-07-29",
+        "dau": 129,
+        "returningAddresses": 123,
+        "newUsers": 6
+    },
+    {
+        "date": "2024-07-30",
+        "dau": 93,
+        "returningAddresses": 89,
+        "newUsers": 4
+    },
+    {
+        "date": "2024-07-31",
+        "dau": 106,
+        "returningAddresses": 104,
+        "newUsers": 2
+    },
+    {
+        "date": "2024-08-01",
+        "dau": 121,
+        "returningAddresses": 119,
+        "newUsers": 2
+    },
+    {
+        "date": "2024-08-02",
+        "dau": 178,
+        "returningAddresses": 175,
+        "newUsers": 3
+    },
+    {
+        "date": "2024-08-03",
+        "dau": 128,
+        "returningAddresses": 124,
+        "newUsers": 4
+    },
+    {
+        "date": "2024-08-04",
+        "dau": 144,
+        "returningAddresses": 144,
+        "newUsers": 0
+    },
+    {
+        "date": "2024-08-05",
+        "dau": 276,
+        "returningAddresses": 268,
+        "newUsers": 8
+    },
+    {
+        "date": "2024-08-06",
+        "dau": 110,
+        "returningAddresses": 105,
+        "newUsers": 5
+    },
+    {
+        "date": "2024-08-07",
+        "dau": 106,
+        "returningAddresses": 101,
+        "newUsers": 5
+    },
+    {
+        "date": "2024-08-08",
+        "dau": 108,
+        "returningAddresses": 104,
+        "newUsers": 4
+    },
+    {
+        "date": "2024-08-09",
+        "dau": 102,
+        "returningAddresses": 100,
+        "newUsers": 2
+    },
+    {
+        "date": "2024-08-10",
+        "dau": 101,
+        "returningAddresses": 99,
+        "newUsers": 2
+    },
+    {
+        "date": "2024-08-11",
+        "dau": 91,
+        "returningAddresses": 86,
+        "newUsers": 5
+    },
+    {
+        "date": "2024-08-12",
+        "dau": 95,
+        "returningAddresses": 91,
+        "newUsers": 4
+    },
+    {
+        "date": "2024-08-13",
+        "dau": 92,
+        "returningAddresses": 88,
+        "newUsers": 4
+    },
+    {
+        "date": "2024-08-14",
+        "dau": 100,
+        "returningAddresses": 99,
+        "newUsers": 1
+    },
+    {
+        "date": "2024-08-15",
+        "dau": 113,
+        "returningAddresses": 110,
+        "newUsers": 3
+    },
+    {
+        "date": "2024-08-16",
+        "dau": 116,
+        "returningAddresses": 113,
+        "newUsers": 3
+    },
+    {
+        "date": "2024-08-17",
+        "dau": 76,
+        "returningAddresses": 76,
+        "newUsers": 0
+    },
+    {
+        "date": "2024-08-18",
+        "dau": 87,
+        "returningAddresses": 87,
+        "newUsers": 0
+    },
+    {
+        "date": "2024-08-19",
+        "dau": 92,
+        "returningAddresses": 88,
+        "newUsers": 4
+    },
+    {
+        "date": "2024-08-20",
+        "dau": 113,
+        "returningAddresses": 106,
+        "newUsers": 7
+    },
+    {
+        "date": "2024-08-21",
+        "dau": 100,
+        "returningAddresses": 100,
+        "newUsers": 0
+    },
+    {
+        "date": "2024-08-22",
+        "dau": 96,
+        "returningAddresses": 93,
+        "newUsers": 3
+    },
+    {
+        "date": "2024-08-23",
+        "dau": 115,
+        "returningAddresses": 113,
+        "newUsers": 2
+    },
+    {
+        "date": "2024-08-24",
+        "dau": 92,
+        "returningAddresses": 90,
+        "newUsers": 2
+    },
+    {
+        "date": "2024-08-25",
+        "dau": 85,
+        "returningAddresses": 83,
+        "newUsers": 2
+    },
+    {
+        "date": "2024-08-26",
+        "dau": 103,
+        "returningAddresses": 100,
+        "newUsers": 3
+    },
+    {
+        "date": "2024-08-27",
+        "dau": 107,
+        "returningAddresses": 106,
+        "newUsers": 1
+    },
+    {
+        "date": "2024-08-28",
+        "dau": 99,
+        "returningAddresses": 97,
+        "newUsers": 2
+    },
+    {
+        "date": "2024-08-29",
+        "dau": 95,
+        "returningAddresses": 94,
+        "newUsers": 1
+    },
+    {
+        "date": "2024-08-30",
+        "dau": 84,
+        "returningAddresses": 83,
+        "newUsers": 1
+    },
+    {
+        "date": "2024-08-31",
+        "dau": 71,
+        "returningAddresses": 70,
+        "newUsers": 1
+    },
+    {
+        "date": "2024-09-01",
+        "dau": 100,
+        "returningAddresses": 99,
+        "newUsers": 1
+    },
+    {
+        "date": "2024-09-02",
+        "dau": 105,
+        "returningAddresses": 103,
+        "newUsers": 2
+    },
+    {
+        "date": "2024-09-03",
+        "dau": 99,
+        "returningAddresses": 95,
+        "newUsers": 4
+    },
+    {
+        "date": "2024-09-04",
+        "dau": 125,
+        "returningAddresses": 122,
+        "newUsers": 3
+    },
+    {
+        "date": "2024-09-05",
+        "dau": 101,
+        "returningAddresses": 98,
+        "newUsers": 3
+    },
+    {
+        "date": "2024-09-06",
+        "dau": 122,
+        "returningAddresses": 119,
+        "newUsers": 3
+    },
+    {
+        "date": "2024-09-07",
+        "dau": 91,
+        "returningAddresses": 87,
+        "newUsers": 4
+    },
+    {
+        "date": "2024-09-08",
+        "dau": 82,
+        "returningAddresses": 82,
+        "newUsers": 0
+    },
+    {
+        "date": "2024-09-09",
+        "dau": 113,
+        "returningAddresses": 109,
+        "newUsers": 4
+    },
+    {
+        "date": "2024-09-10",
+        "dau": 92,
+        "returningAddresses": 90,
+        "newUsers": 2
+    },
+    {
+        "date": "2024-09-11",
+        "dau": 78,
+        "returningAddresses": 78,
+        "newUsers": 0
+    }
+]
